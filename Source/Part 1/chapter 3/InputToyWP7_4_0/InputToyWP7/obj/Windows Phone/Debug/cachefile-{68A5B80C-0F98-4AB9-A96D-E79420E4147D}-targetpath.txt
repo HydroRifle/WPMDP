@@ -1,5 +1,0 @@
-Content\btnHelp.xnb
-Content\btnPause.xnb
-Content\btnPlay.xnb
-Content\Flare.xnb
-Content\Instructions.xnb
