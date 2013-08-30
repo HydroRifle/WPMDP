@@ -1,0 +1,39 @@
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 06\ComboBoxBindings\ComboBoxBindings\Bin\Debug\ApplicationIcon.png
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 06\ComboBoxBindings\ComboBoxBindings\Bin\Debug\Background.png
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 06\ComboBoxBindings\ComboBoxBindings\Bin\Debug\ComboBoxBingds.dll
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 06\ComboBoxBindings\ComboBoxBindings\Bin\Debug\ComboBoxBingds.pdb
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 06\ComboBoxBindings\ComboBoxBindings\Bin\Debug\AppManifest.xaml
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 06\ComboBoxBindings\ComboBoxBindings\Bin\Debug\ComboBoxBingds.xap
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 06\ComboBoxBindings\ComboBoxBindings\obj\Debug\ResolveAssemblyReference.cache
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 06\ComboBoxBindings\ComboBoxBindings\obj\Debug\App.g.i.cs
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 06\ComboBoxBindings\ComboBoxBindings\obj\Debug\MainPage.g.i.cs
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 06\ComboBoxBindings\ComboBoxBindings\obj\Debug\ComboBoxBingds.g.resources
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 06\ComboBoxBindings\ComboBoxBindings\obj\Debug\ComboBoxBingds.dll
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 06\ComboBoxBindings\ComboBoxBindings\obj\Debug\ComboBoxBingds.pdb
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 06\ComboBoxBindings\ComboBoxBindings\obj\Debug\XapCacheFile.xml
+D:\Project\WP Mango Programming Practice\Part 2\chapter 06\ComboBoxBindings\ComboBoxBindings\Bin\Debug\ApplicationIcon.png
+D:\Project\WP Mango Programming Practice\Part 2\chapter 06\ComboBoxBindings\ComboBoxBindings\Bin\Debug\Background.png
+D:\Project\WP Mango Programming Practice\Part 2\chapter 06\ComboBoxBindings\ComboBoxBindings\Bin\Debug\ComboBoxBingds.dll
+D:\Project\WP Mango Programming Practice\Part 2\chapter 06\ComboBoxBindings\ComboBoxBindings\Bin\Debug\ComboBoxBingds.pdb
+D:\Project\WP Mango Programming Practice\Part 2\chapter 06\ComboBoxBindings\ComboBoxBindings\Bin\Debug\AppManifest.xaml
+D:\Project\WP Mango Programming Practice\Part 2\chapter 06\ComboBoxBindings\ComboBoxBindings\Bin\Debug\ComboBoxBingds.xap
+D:\Project\WP Mango Programming Practice\Part 2\chapter 06\ComboBoxBindings\ComboBoxBindings\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\WP Mango Programming Practice\Part 2\chapter 06\ComboBoxBindings\ComboBoxBindings\obj\Debug\App.g.i.cs
+D:\Project\WP Mango Programming Practice\Part 2\chapter 06\ComboBoxBindings\ComboBoxBindings\obj\Debug\MainPage.g.i.cs
+D:\Project\WP Mango Programming Practice\Part 2\chapter 06\ComboBoxBindings\ComboBoxBindings\obj\Debug\ComboBoxBingds.g.resources
+D:\Project\WP Mango Programming Practice\Part 2\chapter 06\ComboBoxBindings\ComboBoxBindings\obj\Debug\ComboBoxBingds.dll
+D:\Project\WP Mango Programming Practice\Part 2\chapter 06\ComboBoxBindings\ComboBoxBindings\obj\Debug\ComboBoxBingds.pdb
+D:\Project\WP Mango Programming Practice\Part 2\chapter 06\ComboBoxBindings\ComboBoxBindings\obj\Debug\XapCacheFile.xml
+D:\Project\WP Mango Programming Practice\Part 2\chapter 09\ComboBoxBindings\ComboBoxBindings\Bin\Debug\ApplicationIcon.png
+D:\Project\WP Mango Programming Practice\Part 2\chapter 09\ComboBoxBindings\ComboBoxBindings\Bin\Debug\Background.png
+D:\Project\WP Mango Programming Practice\Part 2\chapter 09\ComboBoxBindings\ComboBoxBindings\Bin\Debug\ComboBoxBingds.dll
+D:\Project\WP Mango Programming Practice\Part 2\chapter 09\ComboBoxBindings\ComboBoxBindings\Bin\Debug\ComboBoxBingds.pdb
+D:\Project\WP Mango Programming Practice\Part 2\chapter 09\ComboBoxBindings\ComboBoxBindings\Bin\Debug\AppManifest.xaml
+D:\Project\WP Mango Programming Practice\Part 2\chapter 09\ComboBoxBindings\ComboBoxBindings\Bin\Debug\ComboBoxBingds.xap
+D:\Project\WP Mango Programming Practice\Part 2\chapter 09\ComboBoxBindings\ComboBoxBindings\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\WP Mango Programming Practice\Part 2\chapter 09\ComboBoxBindings\ComboBoxBindings\obj\Debug\App.g.i.cs
+D:\Project\WP Mango Programming Practice\Part 2\chapter 09\ComboBoxBindings\ComboBoxBindings\obj\Debug\MainPage.g.i.cs
+D:\Project\WP Mango Programming Practice\Part 2\chapter 09\ComboBoxBindings\ComboBoxBindings\obj\Debug\ComboBoxBingds.g.resources
+D:\Project\WP Mango Programming Practice\Part 2\chapter 09\ComboBoxBindings\ComboBoxBindings\obj\Debug\ComboBoxBingds.dll
+D:\Project\WP Mango Programming Practice\Part 2\chapter 09\ComboBoxBindings\ComboBoxBindings\obj\Debug\ComboBoxBingds.pdb
+D:\Project\WP Mango Programming Practice\Part 2\chapter 09\ComboBoxBindings\ComboBoxBindings\obj\Debug\XapCacheFile.xml

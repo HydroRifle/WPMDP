@@ -1,0 +1,20 @@
+﻿PushServer
+
+
+winexe
+C#
+.cs
+D:\Project\WP Mango Programming Practice\Source\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Server\obj\x86\Debug\
+WindowsPhone.Recipes.Push.Server
+none
+false
+DEBUG;TRACE
+D:\Project\WP Mango Programming Practice\Source\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Server\App.xaml
+8-6722798
+10963896516
+321680014475
+221758706806
+MainWindow.xaml;Resources\DataTemplates\TileSchedulePushPatternViewModel.xaml;Resources\DefaultSkin.xaml;Resources\DataTemplates\AskToPinPushPatternViewModel.xaml;Resources\DataTemplates\CustomTileImagePushPatternViewModel.xaml;Resources\DataTemplates\CounterPushPatternViewModel.xaml;Resources\DataTemplates\OneTimePushPatternViewModel.xaml;Resources\DataTemplates\MessageStatusViewModel.xaml;
+
+False
+

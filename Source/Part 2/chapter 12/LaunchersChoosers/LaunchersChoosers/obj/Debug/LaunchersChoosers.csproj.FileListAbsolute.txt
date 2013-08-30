@@ -1,0 +1,121 @@
+D:\Project\WP7 Programming Practice\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\Bin\Debug\ApplicationIcon.png
+D:\Project\WP7 Programming Practice\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\Bin\Debug\Background.png
+D:\Project\WP7 Programming Practice\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\Bin\Debug\LaunchersChoosers.dll
+D:\Project\WP7 Programming Practice\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\Bin\Debug\LaunchersChoosers.pdb
+D:\Project\WP7 Programming Practice\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\Bin\Debug\AppManifest.xaml
+D:\Project\WP7 Programming Practice\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\Bin\Debug\LaunchersChoosers.xap
+D:\Project\WP7 Programming Practice\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\Bin\Debug\Microsoft.Phone.Controls.dll
+D:\Project\WP7 Programming Practice\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\Bin\Debug\Microsoft.Phone.Controls.xml
+D:\Project\WP7 Programming Practice\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\WP7 Programming Practice\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\obj\Debug\App.g.i.cs
+D:\Project\WP7 Programming Practice\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\obj\Debug\MainPage.g.i.cs
+D:\Project\WP7 Programming Practice\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\obj\Debug\LaunchersChoosers.g.resources
+D:\Project\WP7 Programming Practice\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\obj\Debug\LaunchersChoosers.dll
+D:\Project\WP7 Programming Practice\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\obj\Debug\LaunchersChoosers.pdb
+D:\Project\WP7 Programming Practice\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\obj\Debug\XapCacheFile.xml
+D:\Project\WP7 Programming Practice\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\obj\Debug\Launchers\EmailCompose.g.i.cs
+D:\Project\WP7 Programming Practice\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\obj\Debug\Launchers\MarketPlace.g.i.cs
+D:\Project\WP7 Programming Practice\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\obj\Debug\Launchers\PhoneCall.g.i.cs
+D:\Project\WP7 Programming Practice\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\obj\Debug\Launchers\Search.g.i.cs
+D:\Project\WP7 Programming Practice\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\obj\Debug\Launchers\Smscompose.g.i.cs
+D:\Project\WP7 Programming Practice\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\obj\Debug\Launchers\WebBrowser.g.i.cs
+D:\Project\WP7 Programming Practice\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\obj\Debug\Choosers\CamerChooser.g.i.cs
+D:\Project\WP7 Programming Practice\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\obj\Debug\Choosers\EmailAddressChooser.g.i.cs
+D:\Project\WP7 Programming Practice\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\obj\Debug\Choosers\PhoneNumberChooser.g.i.cs
+D:\Project\WP7 Programming Practice\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\obj\Debug\Choosers\PhotoChooser.g.i.cs
+D:\Project\WP7 Programming Practice\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\obj\Debug\Choosers\SaveEmailAddress.g.i.cs
+D:\Project\WP7 Programming Practice\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\obj\Debug\Choosers\SavePhoneNumber.g.i.cs
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\Bin\Debug\ApplicationIcon.png
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\Bin\Debug\Background.png
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\Bin\Debug\LaunchersChoosers.dll
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\Bin\Debug\LaunchersChoosers.pdb
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\Bin\Debug\AppManifest.xaml
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\Bin\Debug\LaunchersChoosers.xap
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\Bin\Debug\Microsoft.Phone.Controls.dll
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\Bin\Debug\Microsoft.Phone.Controls.xml
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\obj\Debug\ResolveAssemblyReference.cache
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\obj\Debug\App.g.i.cs
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\obj\Debug\Choosers\CamerChooser.g.i.cs
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\obj\Debug\Choosers\EmailAddressChooser.g.i.cs
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\obj\Debug\Choosers\PhoneNumberChooser.g.i.cs
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\obj\Debug\Choosers\PhotoChooser.g.i.cs
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\obj\Debug\Choosers\SaveEmailAddress.g.i.cs
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\obj\Debug\Choosers\SavePhoneNumber.g.i.cs
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\obj\Debug\Launchers\EmailCompose.g.i.cs
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\obj\Debug\Launchers\MarketPlace.g.i.cs
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\obj\Debug\Launchers\PhoneCall.g.i.cs
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\obj\Debug\Launchers\Search.g.i.cs
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\obj\Debug\Launchers\Smscompose.g.i.cs
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\obj\Debug\Launchers\WebBrowser.g.i.cs
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\obj\Debug\MainPage.g.i.cs
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\obj\Debug\LaunchersChoosers.g.resources
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\obj\Debug\LaunchersChoosers.dll
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\obj\Debug\LaunchersChoosers.pdb
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\obj\Debug\XapCacheFile.xml
+D:\Project\WP7 Programming Practice\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\Bin\Debug\Media\mymovie.wmv
+D:\Project\WP7 Programming Practice\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\obj\Debug\Launchers\MediaLauncher.g.i.cs
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\Bin\Debug\Media\mymovie.wmv
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\obj\Debug\Launchers\MediaLauncher.g.i.cs
+D:\Project\WP Mango Programming Practice\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\Bin\Debug\ApplicationIcon.png
+D:\Project\WP Mango Programming Practice\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\Bin\Debug\Background.png
+D:\Project\WP Mango Programming Practice\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\Bin\Debug\Media\mymovie.wmv
+D:\Project\WP Mango Programming Practice\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\Bin\Debug\LaunchersChoosers.dll
+D:\Project\WP Mango Programming Practice\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\Bin\Debug\LaunchersChoosers.pdb
+D:\Project\WP Mango Programming Practice\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\Bin\Debug\AppManifest.xaml
+D:\Project\WP Mango Programming Practice\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\Bin\Debug\LaunchersChoosers.xap
+D:\Project\WP Mango Programming Practice\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\Bin\Debug\Microsoft.Phone.Controls.dll
+D:\Project\WP Mango Programming Practice\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+D:\Project\WP Mango Programming Practice\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\Bin\Debug\Microsoft.Phone.Controls.xml
+D:\Project\WP Mango Programming Practice\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+D:\Project\WP Mango Programming Practice\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+D:\Project\WP Mango Programming Practice\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\WP Mango Programming Practice\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\obj\Debug\App.g.i.cs
+D:\Project\WP Mango Programming Practice\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\obj\Debug\Choosers\CamerChooser.g.i.cs
+D:\Project\WP Mango Programming Practice\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\obj\Debug\Choosers\EmailAddressChooser.g.i.cs
+D:\Project\WP Mango Programming Practice\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\obj\Debug\Choosers\PhoneNumberChooser.g.i.cs
+D:\Project\WP Mango Programming Practice\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\obj\Debug\Choosers\PhotoChooser.g.i.cs
+D:\Project\WP Mango Programming Practice\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\obj\Debug\Choosers\SaveEmailAddress.g.i.cs
+D:\Project\WP Mango Programming Practice\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\obj\Debug\Choosers\SavePhoneNumber.g.i.cs
+D:\Project\WP Mango Programming Practice\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\obj\Debug\Launchers\EmailCompose.g.i.cs
+D:\Project\WP Mango Programming Practice\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\obj\Debug\Launchers\MarketPlace.g.i.cs
+D:\Project\WP Mango Programming Practice\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\obj\Debug\Launchers\MediaLauncher.g.i.cs
+D:\Project\WP Mango Programming Practice\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\obj\Debug\Launchers\PhoneCall.g.i.cs
+D:\Project\WP Mango Programming Practice\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\obj\Debug\Launchers\Search.g.i.cs
+D:\Project\WP Mango Programming Practice\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\obj\Debug\Launchers\Smscompose.g.i.cs
+D:\Project\WP Mango Programming Practice\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\obj\Debug\Launchers\WebBrowser.g.i.cs
+D:\Project\WP Mango Programming Practice\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\obj\Debug\MainPage.g.i.cs
+D:\Project\WP Mango Programming Practice\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\obj\Debug\LaunchersChoosers.g.resources
+D:\Project\WP Mango Programming Practice\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\obj\Debug\LaunchersChoosers.dll
+D:\Project\WP Mango Programming Practice\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\obj\Debug\LaunchersChoosers.pdb
+D:\Project\WP Mango Programming Practice\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\obj\Debug\XapCacheFile.xml
+E:\MyDev\DevTech\Windows Phone\MyBook\WPMDP\Source\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\Bin\Debug\ApplicationIcon.png
+E:\MyDev\DevTech\Windows Phone\MyBook\WPMDP\Source\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\Bin\Debug\Background.png
+E:\MyDev\DevTech\Windows Phone\MyBook\WPMDP\Source\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\Bin\Debug\Media\mymovie.wmv
+E:\MyDev\DevTech\Windows Phone\MyBook\WPMDP\Source\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\Bin\Debug\LaunchersChoosers.dll
+E:\MyDev\DevTech\Windows Phone\MyBook\WPMDP\Source\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\Bin\Debug\LaunchersChoosers.pdb
+E:\MyDev\DevTech\Windows Phone\MyBook\WPMDP\Source\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\Bin\Debug\AppManifest.xaml
+E:\MyDev\DevTech\Windows Phone\MyBook\WPMDP\Source\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\Bin\Debug\LaunchersChoosers.xap
+E:\MyDev\DevTech\Windows Phone\MyBook\WPMDP\Source\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\Bin\Debug\Microsoft.Phone.Controls.dll
+E:\MyDev\DevTech\Windows Phone\MyBook\WPMDP\Source\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\Bin\Debug\Microsoft.Phone.Controls.xml
+E:\MyDev\DevTech\Windows Phone\MyBook\WPMDP\Source\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+E:\MyDev\DevTech\Windows Phone\MyBook\WPMDP\Source\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+E:\MyDev\DevTech\Windows Phone\MyBook\WPMDP\Source\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\obj\Debug\ResolveAssemblyReference.cache
+E:\MyDev\DevTech\Windows Phone\MyBook\WPMDP\Source\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\obj\Debug\App.g.i.cs
+E:\MyDev\DevTech\Windows Phone\MyBook\WPMDP\Source\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\obj\Debug\Choosers\CamerChooser.g.i.cs
+E:\MyDev\DevTech\Windows Phone\MyBook\WPMDP\Source\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\obj\Debug\Choosers\EmailAddressChooser.g.i.cs
+E:\MyDev\DevTech\Windows Phone\MyBook\WPMDP\Source\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\obj\Debug\Choosers\PhoneNumberChooser.g.i.cs
+E:\MyDev\DevTech\Windows Phone\MyBook\WPMDP\Source\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\obj\Debug\Choosers\PhotoChooser.g.i.cs
+E:\MyDev\DevTech\Windows Phone\MyBook\WPMDP\Source\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\obj\Debug\Choosers\SaveEmailAddress.g.i.cs
+E:\MyDev\DevTech\Windows Phone\MyBook\WPMDP\Source\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\obj\Debug\Choosers\SavePhoneNumber.g.i.cs
+E:\MyDev\DevTech\Windows Phone\MyBook\WPMDP\Source\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\obj\Debug\Launchers\EmailCompose.g.i.cs
+E:\MyDev\DevTech\Windows Phone\MyBook\WPMDP\Source\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\obj\Debug\Launchers\MarketPlace.g.i.cs
+E:\MyDev\DevTech\Windows Phone\MyBook\WPMDP\Source\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\obj\Debug\Launchers\MediaLauncher.g.i.cs
+E:\MyDev\DevTech\Windows Phone\MyBook\WPMDP\Source\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\obj\Debug\Launchers\PhoneCall.g.i.cs
+E:\MyDev\DevTech\Windows Phone\MyBook\WPMDP\Source\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\obj\Debug\Launchers\Search.g.i.cs
+E:\MyDev\DevTech\Windows Phone\MyBook\WPMDP\Source\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\obj\Debug\Launchers\Smscompose.g.i.cs
+E:\MyDev\DevTech\Windows Phone\MyBook\WPMDP\Source\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\obj\Debug\Launchers\WebBrowser.g.i.cs
+E:\MyDev\DevTech\Windows Phone\MyBook\WPMDP\Source\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\obj\Debug\MainPage.g.i.cs
+E:\MyDev\DevTech\Windows Phone\MyBook\WPMDP\Source\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\obj\Debug\LaunchersChoosers.g.resources
+E:\MyDev\DevTech\Windows Phone\MyBook\WPMDP\Source\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\obj\Debug\LaunchersChoosers.dll
+E:\MyDev\DevTech\Windows Phone\MyBook\WPMDP\Source\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\obj\Debug\LaunchersChoosers.pdb
+E:\MyDev\DevTech\Windows Phone\MyBook\WPMDP\Source\Part 2\chapter 12\LaunchersChoosers\LaunchersChoosers\obj\Debug\XapCacheFile.xml

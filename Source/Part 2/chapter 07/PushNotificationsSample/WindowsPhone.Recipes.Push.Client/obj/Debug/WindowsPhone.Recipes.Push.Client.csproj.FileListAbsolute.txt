@@ -1,0 +1,138 @@
+D:\Develop\Samples\Windows Phone\使用推送通知\PushRecipe_WP7_SL\Source\WindowsPhone.Recipes.Push.Client\Bin\Debug\ApplicationIcon.png
+D:\Develop\Samples\Windows Phone\使用推送通知\PushRecipe_WP7_SL\Source\WindowsPhone.Recipes.Push.Client\Bin\Debug\Background.png
+D:\Develop\Samples\Windows Phone\使用推送通知\PushRecipe_WP7_SL\Source\WindowsPhone.Recipes.Push.Client\Bin\Debug\PushClient.dll
+D:\Develop\Samples\Windows Phone\使用推送通知\PushRecipe_WP7_SL\Source\WindowsPhone.Recipes.Push.Client\Bin\Debug\PushClient.pdb
+D:\Develop\Samples\Windows Phone\使用推送通知\PushRecipe_WP7_SL\Source\WindowsPhone.Recipes.Push.Client\Bin\Debug\AppManifest.xaml
+D:\Develop\Samples\Windows Phone\使用推送通知\PushRecipe_WP7_SL\Source\WindowsPhone.Recipes.Push.Client\Bin\Debug\PushClient.xap
+D:\Develop\Samples\Windows Phone\使用推送通知\PushRecipe_WP7_SL\Source\WindowsPhone.Recipes.Push.Client\Bin\Debug\Microsoft.Phone.Controls.dll
+D:\Develop\Samples\Windows Phone\使用推送通知\PushRecipe_WP7_SL\Source\WindowsPhone.Recipes.Push.Client\Bin\Debug\Microsoft.Phone.Controls.xml
+D:\Develop\Samples\Windows Phone\使用推送通知\PushRecipe_WP7_SL\Source\WindowsPhone.Recipes.Push.Client\obj\Debug\ResolveAssemblyReference.cache
+D:\Develop\Samples\Windows Phone\使用推送通知\PushRecipe_WP7_SL\Source\WindowsPhone.Recipes.Push.Client\obj\Debug\App.g.i.cs
+D:\Develop\Samples\Windows Phone\使用推送通知\PushRecipe_WP7_SL\Source\WindowsPhone.Recipes.Push.Client\obj\Debug\Controls\NotificationBox.g.i.cs
+D:\Develop\Samples\Windows Phone\使用推送通知\PushRecipe_WP7_SL\Source\WindowsPhone.Recipes.Push.Client\obj\Debug\MainPage.g.i.cs
+D:\Develop\Samples\Windows Phone\使用推送通知\PushRecipe_WP7_SL\Source\WindowsPhone.Recipes.Push.Client\obj\Debug\Controls\PushSettingsControl.g.i.cs
+D:\Develop\Samples\Windows Phone\使用推送通知\PushRecipe_WP7_SL\Source\WindowsPhone.Recipes.Push.Client\obj\Debug\Controls\ProgressBar\ProgressBarWithText.g.i.cs
+D:\Develop\Samples\Windows Phone\使用推送通知\PushRecipe_WP7_SL\Source\WindowsPhone.Recipes.Push.Client\obj\Debug\Views\InboxView.g.i.cs
+D:\Develop\Samples\Windows Phone\使用推送通知\PushRecipe_WP7_SL\Source\WindowsPhone.Recipes.Push.Client\obj\Debug\Views\PushSettingsView.g.i.cs
+D:\Develop\Samples\Windows Phone\使用推送通知\PushRecipe_WP7_SL\Source\WindowsPhone.Recipes.Push.Client\obj\Debug\Views\UserLoginView.g.i.cs
+D:\Develop\Samples\Windows Phone\使用推送通知\PushRecipe_WP7_SL\Source\WindowsPhone.Recipes.Push.Client\obj\Debug\PushClient.g.resources
+D:\Develop\Samples\Windows Phone\使用推送通知\PushRecipe_WP7_SL\Source\WindowsPhone.Recipes.Push.Client\obj\Debug\PushClient.dll
+D:\Develop\Samples\Windows Phone\使用推送通知\PushRecipe_WP7_SL\Source\WindowsPhone.Recipes.Push.Client\obj\Debug\PushClient.pdb
+D:\Develop\Samples\Windows Phone\使用推送通知\PushRecipe_WP7_SL\Source\WindowsPhone.Recipes.Push.Client\obj\Debug\XapCacheFile.xml
+D:\Project\WP7 Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\Bin\Debug\ApplicationIcon.png
+D:\Project\WP7 Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\Bin\Debug\Background.png
+D:\Project\WP7 Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\Bin\Debug\PushClient.dll
+D:\Project\WP7 Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\Bin\Debug\PushClient.pdb
+D:\Project\WP7 Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\Bin\Debug\AppManifest.xaml
+D:\Project\WP7 Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\Bin\Debug\PushClient.xap
+D:\Project\WP7 Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\Bin\Debug\Microsoft.Phone.Controls.dll
+D:\Project\WP7 Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\Bin\Debug\Microsoft.Phone.Controls.xml
+D:\Project\WP7 Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\WP7 Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\obj\Debug\App.g.i.cs
+D:\Project\WP7 Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\obj\Debug\Controls\NotificationBox.g.i.cs
+D:\Project\WP7 Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\obj\Debug\MainPage.g.i.cs
+D:\Project\WP7 Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\obj\Debug\Controls\PushSettingsControl.g.i.cs
+D:\Project\WP7 Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\obj\Debug\Controls\ProgressBar\ProgressBarWithText.g.i.cs
+D:\Project\WP7 Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\obj\Debug\Views\InboxView.g.i.cs
+D:\Project\WP7 Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\obj\Debug\Views\PushSettingsView.g.i.cs
+D:\Project\WP7 Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\obj\Debug\Views\UserLoginView.g.i.cs
+D:\Project\WP7 Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\obj\Debug\PushClient.g.resources
+D:\Project\WP7 Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\obj\Debug\PushClient.dll
+D:\Project\WP7 Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\obj\Debug\PushClient.pdb
+D:\Project\WP7 Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\obj\Debug\XapCacheFile.xml
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\Bin\Debug\ApplicationIcon.png
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\Bin\Debug\Background.png
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\Bin\Debug\PushClient.dll
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\Bin\Debug\PushClient.pdb
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\Bin\Debug\AppManifest.xaml
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\Bin\Debug\PushClient.xap
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\Bin\Debug\Microsoft.Phone.Controls.dll
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\Bin\Debug\Microsoft.Phone.Controls.xml
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\obj\Debug\ResolveAssemblyReference.cache
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\obj\Debug\App.g.i.cs
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\obj\Debug\Controls\NotificationBox.g.i.cs
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\obj\Debug\MainPage.g.i.cs
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\obj\Debug\Controls\PushSettingsControl.g.i.cs
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\obj\Debug\Controls\ProgressBar\ProgressBarWithText.g.i.cs
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\obj\Debug\Views\InboxView.g.i.cs
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\obj\Debug\Views\PushSettingsView.g.i.cs
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\obj\Debug\Views\UserLoginView.g.i.cs
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\obj\Debug\PushClient.g.resources
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\obj\Debug\PushClient.dll
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\obj\Debug\PushClient.pdb
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\obj\Debug\XapCacheFile.xml
+D:\Project\WP Mango Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\Bin\Debug\ApplicationIcon.png
+D:\Project\WP Mango Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\Bin\Debug\Background.png
+D:\Project\WP Mango Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\Bin\Debug\PushClient.dll
+D:\Project\WP Mango Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\Bin\Debug\PushClient.pdb
+D:\Project\WP Mango Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\Bin\Debug\AppManifest.xaml
+D:\Project\WP Mango Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\Bin\Debug\PushClient.xap
+D:\Project\WP Mango Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\Bin\Debug\Microsoft.Phone.Controls.dll
+D:\Project\WP Mango Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+D:\Project\WP Mango Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\Bin\Debug\Microsoft.Phone.Controls.xml
+D:\Project\WP Mango Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+D:\Project\WP Mango Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+D:\Project\WP Mango Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\WP Mango Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\obj\Debug\App.g.i.cs
+D:\Project\WP Mango Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\obj\Debug\Controls\NotificationBox.g.i.cs
+D:\Project\WP Mango Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\obj\Debug\MainPage.g.i.cs
+D:\Project\WP Mango Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\obj\Debug\Controls\PushSettingsControl.g.i.cs
+D:\Project\WP Mango Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\obj\Debug\Controls\ProgressBar\ProgressBarWithText.g.i.cs
+D:\Project\WP Mango Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\obj\Debug\Views\InboxView.g.i.cs
+D:\Project\WP Mango Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\obj\Debug\Views\PushSettingsView.g.i.cs
+D:\Project\WP Mango Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\obj\Debug\Views\UserLoginView.g.i.cs
+D:\Project\WP Mango Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\obj\Debug\PushClient.g.resources
+D:\Project\WP Mango Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\obj\Debug\PushClient.dll
+D:\Project\WP Mango Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\obj\Debug\PushClient.pdb
+D:\Project\WP Mango Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\obj\Debug\XapCacheFile.xml
+D:\Project\WP Mango Programming Practice\Part 2\chapter 07\PushNotificationsSample_WP7\WindowsPhone.Recipes.Push.Client\Bin\Debug\ApplicationIcon.png
+D:\Project\WP Mango Programming Practice\Part 2\chapter 07\PushNotificationsSample_WP7\WindowsPhone.Recipes.Push.Client\Bin\Debug\Background.png
+D:\Project\WP Mango Programming Practice\Part 2\chapter 07\PushNotificationsSample_WP7\WindowsPhone.Recipes.Push.Client\Bin\Debug\PushClient.dll
+D:\Project\WP Mango Programming Practice\Part 2\chapter 07\PushNotificationsSample_WP7\WindowsPhone.Recipes.Push.Client\Bin\Debug\PushClient.pdb
+D:\Project\WP Mango Programming Practice\Part 2\chapter 07\PushNotificationsSample_WP7\WindowsPhone.Recipes.Push.Client\Bin\Debug\AppManifest.xaml
+D:\Project\WP Mango Programming Practice\Part 2\chapter 07\PushNotificationsSample_WP7\WindowsPhone.Recipes.Push.Client\Bin\Debug\PushClient.xap
+D:\Project\WP Mango Programming Practice\Part 2\chapter 07\PushNotificationsSample_WP7\WindowsPhone.Recipes.Push.Client\Bin\Debug\Microsoft.Phone.Controls.dll
+D:\Project\WP Mango Programming Practice\Part 2\chapter 07\PushNotificationsSample_WP7\WindowsPhone.Recipes.Push.Client\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+D:\Project\WP Mango Programming Practice\Part 2\chapter 07\PushNotificationsSample_WP7\WindowsPhone.Recipes.Push.Client\Bin\Debug\Microsoft.Phone.Controls.xml
+D:\Project\WP Mango Programming Practice\Part 2\chapter 07\PushNotificationsSample_WP7\WindowsPhone.Recipes.Push.Client\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+D:\Project\WP Mango Programming Practice\Part 2\chapter 07\PushNotificationsSample_WP7\WindowsPhone.Recipes.Push.Client\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+D:\Project\WP Mango Programming Practice\Part 2\chapter 07\PushNotificationsSample_WP7\WindowsPhone.Recipes.Push.Client\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\WP Mango Programming Practice\Part 2\chapter 07\PushNotificationsSample_WP7\WindowsPhone.Recipes.Push.Client\obj\Debug\App.g.i.cs
+D:\Project\WP Mango Programming Practice\Part 2\chapter 07\PushNotificationsSample_WP7\WindowsPhone.Recipes.Push.Client\obj\Debug\Controls\NotificationBox.g.i.cs
+D:\Project\WP Mango Programming Practice\Part 2\chapter 07\PushNotificationsSample_WP7\WindowsPhone.Recipes.Push.Client\obj\Debug\MainPage.g.i.cs
+D:\Project\WP Mango Programming Practice\Part 2\chapter 07\PushNotificationsSample_WP7\WindowsPhone.Recipes.Push.Client\obj\Debug\Controls\PushSettingsControl.g.i.cs
+D:\Project\WP Mango Programming Practice\Part 2\chapter 07\PushNotificationsSample_WP7\WindowsPhone.Recipes.Push.Client\obj\Debug\Controls\ProgressBar\ProgressBarWithText.g.i.cs
+D:\Project\WP Mango Programming Practice\Part 2\chapter 07\PushNotificationsSample_WP7\WindowsPhone.Recipes.Push.Client\obj\Debug\Views\InboxView.g.i.cs
+D:\Project\WP Mango Programming Practice\Part 2\chapter 07\PushNotificationsSample_WP7\WindowsPhone.Recipes.Push.Client\obj\Debug\Views\PushSettingsView.g.i.cs
+D:\Project\WP Mango Programming Practice\Part 2\chapter 07\PushNotificationsSample_WP7\WindowsPhone.Recipes.Push.Client\obj\Debug\Views\UserLoginView.g.i.cs
+D:\Project\WP Mango Programming Practice\Part 2\chapter 07\PushNotificationsSample_WP7\WindowsPhone.Recipes.Push.Client\obj\Debug\PushClient.g.resources
+D:\Project\WP Mango Programming Practice\Part 2\chapter 07\PushNotificationsSample_WP7\WindowsPhone.Recipes.Push.Client\obj\Debug\PushClient.dll
+D:\Project\WP Mango Programming Practice\Part 2\chapter 07\PushNotificationsSample_WP7\WindowsPhone.Recipes.Push.Client\obj\Debug\PushClient.pdb
+D:\Project\WP Mango Programming Practice\Part 2\chapter 07\PushNotificationsSample_WP7\WindowsPhone.Recipes.Push.Client\obj\Debug\XapCacheFile.xml
+D:\Project\WP Mango Programming Practice\Source\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\Bin\Debug\ApplicationIcon.png
+D:\Project\WP Mango Programming Practice\Source\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\Bin\Debug\Background.png
+D:\Project\WP Mango Programming Practice\Source\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\Bin\Debug\PushClient.dll
+D:\Project\WP Mango Programming Practice\Source\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\Bin\Debug\PushClient.pdb
+D:\Project\WP Mango Programming Practice\Source\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\Bin\Debug\AppManifest.xaml
+D:\Project\WP Mango Programming Practice\Source\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\Bin\Debug\PushClient.xap
+D:\Project\WP Mango Programming Practice\Source\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\Bin\Debug\Microsoft.Phone.Controls.dll
+D:\Project\WP Mango Programming Practice\Source\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+D:\Project\WP Mango Programming Practice\Source\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\Bin\Debug\Microsoft.Phone.Controls.xml
+D:\Project\WP Mango Programming Practice\Source\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+D:\Project\WP Mango Programming Practice\Source\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+D:\Project\WP Mango Programming Practice\Source\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\WP Mango Programming Practice\Source\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\obj\Debug\App.g.i.cs
+D:\Project\WP Mango Programming Practice\Source\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\obj\Debug\Controls\NotificationBox.g.i.cs
+D:\Project\WP Mango Programming Practice\Source\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\obj\Debug\MainPage.g.i.cs
+D:\Project\WP Mango Programming Practice\Source\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\obj\Debug\Controls\PushSettingsControl.g.i.cs
+D:\Project\WP Mango Programming Practice\Source\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\obj\Debug\Controls\ProgressBar\ProgressBarWithText.g.i.cs
+D:\Project\WP Mango Programming Practice\Source\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\obj\Debug\Views\InboxView.g.i.cs
+D:\Project\WP Mango Programming Practice\Source\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\obj\Debug\Views\PushSettingsView.g.i.cs
+D:\Project\WP Mango Programming Practice\Source\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\obj\Debug\Views\UserLoginView.g.i.cs
+D:\Project\WP Mango Programming Practice\Source\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\obj\Debug\PushClient.g.resources
+D:\Project\WP Mango Programming Practice\Source\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\obj\Debug\PushClient.dll
+D:\Project\WP Mango Programming Practice\Source\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\obj\Debug\PushClient.pdb
+D:\Project\WP Mango Programming Practice\Source\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Client\obj\Debug\XapCacheFile.xml

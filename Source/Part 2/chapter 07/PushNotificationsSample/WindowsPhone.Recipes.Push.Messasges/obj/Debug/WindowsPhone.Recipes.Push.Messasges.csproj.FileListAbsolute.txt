@@ -1,0 +1,52 @@
+D:\Develop\Samples\Windows Phone\使用推送通知\PushRecipe_WP7_SL\Source\WindowsPhone.Recipes.Push.Messasges\bin\Debug\WindowsPhone.Recipes.Push.Messasges.dll
+D:\Develop\Samples\Windows Phone\使用推送通知\PushRecipe_WP7_SL\Source\WindowsPhone.Recipes.Push.Messasges\bin\Debug\WindowsPhone.Recipes.Push.Messasges.pdb
+D:\Develop\Samples\Windows Phone\使用推送通知\PushRecipe_WP7_SL\Source\WindowsPhone.Recipes.Push.Messasges\obj\Debug\ResolveAssemblyReference.cache
+D:\Develop\Samples\Windows Phone\使用推送通知\PushRecipe_WP7_SL\Source\WindowsPhone.Recipes.Push.Messasges\obj\Debug\WindowsPhone.Recipes.Push.Messasges.Properties.Resources.resources
+D:\Develop\Samples\Windows Phone\使用推送通知\PushRecipe_WP7_SL\Source\WindowsPhone.Recipes.Push.Messasges\obj\Debug\GenerateResource.read.1.tlog
+D:\Develop\Samples\Windows Phone\使用推送通知\PushRecipe_WP7_SL\Source\WindowsPhone.Recipes.Push.Messasges\obj\Debug\GenerateResource.write.1.tlog
+D:\Develop\Samples\Windows Phone\使用推送通知\PushRecipe_WP7_SL\Source\WindowsPhone.Recipes.Push.Messasges\obj\Debug\WindowsPhone.Recipes.Push.Messasges.dll
+D:\Develop\Samples\Windows Phone\使用推送通知\PushRecipe_WP7_SL\Source\WindowsPhone.Recipes.Push.Messasges\obj\Debug\WindowsPhone.Recipes.Push.Messasges.pdb
+D:\Project\WP7 Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Messasges\bin\Debug\WindowsPhone.Recipes.Push.Messasges.dll
+D:\Project\WP7 Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Messasges\bin\Debug\WindowsPhone.Recipes.Push.Messasges.pdb
+D:\Project\WP7 Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Messasges\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\WP7 Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Messasges\obj\Debug\WindowsPhone.Recipes.Push.Messasges.Properties.Resources.resources
+D:\Project\WP7 Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Messasges\obj\Debug\GenerateResource.read.1.tlog
+D:\Project\WP7 Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Messasges\obj\Debug\GenerateResource.write.1.tlog
+D:\Project\WP7 Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Messasges\obj\Debug\WindowsPhone.Recipes.Push.Messasges.dll
+D:\Project\WP7 Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Messasges\obj\Debug\WindowsPhone.Recipes.Push.Messasges.pdb
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Messasges\bin\Debug\WindowsPhone.Recipes.Push.Messasges.dll
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Messasges\bin\Debug\WindowsPhone.Recipes.Push.Messasges.pdb
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Messasges\obj\Debug\ResolveAssemblyReference.cache
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Messasges\obj\Debug\WindowsPhone.Recipes.Push.Messasges.Properties.Resources.resources
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Messasges\obj\Debug\GenerateResource.read.1.tlog
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Messasges\obj\Debug\GenerateResource.write.1.tlog
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Messasges\obj\Debug\WindowsPhone.Recipes.Push.Messasges.dll
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Messasges\obj\Debug\WindowsPhone.Recipes.Push.Messasges.pdb
+D:\Project\WP Mango Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Messasges\bin\Debug\WindowsPhone.Recipes.Push.Messasges.dll
+D:\Project\WP Mango Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Messasges\bin\Debug\WindowsPhone.Recipes.Push.Messasges.pdb
+D:\Project\WP Mango Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Messasges\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\WP Mango Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Messasges\obj\Debug\WindowsPhone.Recipes.Push.Messasges.Properties.Resources.resources
+D:\Project\WP Mango Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Messasges\obj\Debug\GenerateResource.read.1 (aili-PC).tlog
+D:\Project\WP Mango Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Messasges\obj\Debug\GenerateResource.read.1.tlog
+D:\Project\WP Mango Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Messasges\obj\Debug\GenerateResource.write.1 (aili-PC).tlog
+D:\Project\WP Mango Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Messasges\obj\Debug\GenerateResource.write.1.tlog
+D:\Project\WP Mango Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Messasges\obj\Debug\WindowsPhone.Recipes.Push.Messasges.dll
+D:\Project\WP Mango Programming Practice\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Messasges\obj\Debug\WindowsPhone.Recipes.Push.Messasges.pdb
+D:\Project\WP Mango Programming Practice\Part 2\chapter 07\PushNotificationsSample_WP7\WindowsPhone.Recipes.Push.Messasges\bin\Debug\WindowsPhone.Recipes.Push.Messasges.dll
+D:\Project\WP Mango Programming Practice\Part 2\chapter 07\PushNotificationsSample_WP7\WindowsPhone.Recipes.Push.Messasges\bin\Debug\WindowsPhone.Recipes.Push.Messasges.pdb
+D:\Project\WP Mango Programming Practice\Part 2\chapter 07\PushNotificationsSample_WP7\WindowsPhone.Recipes.Push.Messasges\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\WP Mango Programming Practice\Part 2\chapter 07\PushNotificationsSample_WP7\WindowsPhone.Recipes.Push.Messasges\obj\Debug\WindowsPhone.Recipes.Push.Messasges.Properties.Resources.resources
+D:\Project\WP Mango Programming Practice\Part 2\chapter 07\PushNotificationsSample_WP7\WindowsPhone.Recipes.Push.Messasges\obj\Debug\GenerateResource.read.1 (aili-PC).tlog
+D:\Project\WP Mango Programming Practice\Part 2\chapter 07\PushNotificationsSample_WP7\WindowsPhone.Recipes.Push.Messasges\obj\Debug\GenerateResource.read.1.tlog
+D:\Project\WP Mango Programming Practice\Part 2\chapter 07\PushNotificationsSample_WP7\WindowsPhone.Recipes.Push.Messasges\obj\Debug\GenerateResource.write.1 (aili-PC).tlog
+D:\Project\WP Mango Programming Practice\Part 2\chapter 07\PushNotificationsSample_WP7\WindowsPhone.Recipes.Push.Messasges\obj\Debug\GenerateResource.write.1.tlog
+D:\Project\WP Mango Programming Practice\Part 2\chapter 07\PushNotificationsSample_WP7\WindowsPhone.Recipes.Push.Messasges\obj\Debug\WindowsPhone.Recipes.Push.Messasges.dll
+D:\Project\WP Mango Programming Practice\Part 2\chapter 07\PushNotificationsSample_WP7\WindowsPhone.Recipes.Push.Messasges\obj\Debug\WindowsPhone.Recipes.Push.Messasges.pdb
+D:\Project\WP Mango Programming Practice\Source\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Messasges\bin\Debug\WindowsPhone.Recipes.Push.Messasges.dll
+D:\Project\WP Mango Programming Practice\Source\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Messasges\bin\Debug\WindowsPhone.Recipes.Push.Messasges.pdb
+D:\Project\WP Mango Programming Practice\Source\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Messasges\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\WP Mango Programming Practice\Source\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Messasges\obj\Debug\WindowsPhone.Recipes.Push.Messasges.Properties.Resources.resources
+D:\Project\WP Mango Programming Practice\Source\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Messasges\obj\Debug\GenerateResource.read.1.tlog
+D:\Project\WP Mango Programming Practice\Source\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Messasges\obj\Debug\GenerateResource.write.1.tlog
+D:\Project\WP Mango Programming Practice\Source\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Messasges\obj\Debug\WindowsPhone.Recipes.Push.Messasges.dll
+D:\Project\WP Mango Programming Practice\Source\Part 2\chapter 07\PushNotificationsSample\WindowsPhone.Recipes.Push.Messasges\obj\Debug\WindowsPhone.Recipes.Push.Messasges.pdb

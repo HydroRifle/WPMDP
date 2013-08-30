@@ -1,0 +1,39 @@
+D:\Project\WP7 Programming Practice\Part 2\chapter 08\Begin\UsingBingMaps\Bin\Debug\ApplicationIcon.png
+D:\Project\WP7 Programming Practice\Part 2\chapter 08\Begin\UsingBingMaps\Bin\Debug\Background.png
+D:\Project\WP7 Programming Practice\Part 2\chapter 08\Begin\UsingBingMaps\Bin\Debug\UsingBingMaps.dll
+D:\Project\WP7 Programming Practice\Part 2\chapter 08\Begin\UsingBingMaps\Bin\Debug\UsingBingMaps.pdb
+D:\Project\WP7 Programming Practice\Part 2\chapter 08\Begin\UsingBingMaps\Bin\Debug\AppManifest.xaml
+D:\Project\WP7 Programming Practice\Part 2\chapter 08\Begin\UsingBingMaps\Bin\Debug\UsingBingMaps.xap
+D:\Project\WP7 Programming Practice\Part 2\chapter 08\Begin\UsingBingMaps\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\WP7 Programming Practice\Part 2\chapter 08\Begin\UsingBingMaps\obj\Debug\App.g.i.cs
+D:\Project\WP7 Programming Practice\Part 2\chapter 08\Begin\UsingBingMaps\obj\Debug\MainPage.g.i.cs
+D:\Project\WP7 Programming Practice\Part 2\chapter 08\Begin\UsingBingMaps\obj\Debug\UsingBingMaps.g.resources
+D:\Project\WP7 Programming Practice\Part 2\chapter 08\Begin\UsingBingMaps\obj\Debug\UsingBingMaps.dll
+D:\Project\WP7 Programming Practice\Part 2\chapter 08\Begin\UsingBingMaps\obj\Debug\UsingBingMaps.pdb
+D:\Project\WP7 Programming Practice\Part 2\chapter 08\Begin\UsingBingMaps\obj\Debug\XapCacheFile.xml
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 08\Begin\UsingBingMaps\Bin\Debug\ApplicationIcon.png
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 08\Begin\UsingBingMaps\Bin\Debug\Background.png
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 08\Begin\UsingBingMaps\Bin\Debug\UsingBingMaps.dll
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 08\Begin\UsingBingMaps\Bin\Debug\UsingBingMaps.pdb
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 08\Begin\UsingBingMaps\Bin\Debug\AppManifest.xaml
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 08\Begin\UsingBingMaps\Bin\Debug\UsingBingMaps.xap
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 08\Begin\UsingBingMaps\obj\Debug\ResolveAssemblyReference.cache
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 08\Begin\UsingBingMaps\obj\Debug\App.g.i.cs
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 08\Begin\UsingBingMaps\obj\Debug\MainPage.g.i.cs
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 08\Begin\UsingBingMaps\obj\Debug\UsingBingMaps.g.resources
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 08\Begin\UsingBingMaps\obj\Debug\UsingBingMaps.dll
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 08\Begin\UsingBingMaps\obj\Debug\UsingBingMaps.pdb
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 08\Begin\UsingBingMaps\obj\Debug\XapCacheFile.xml
+D:\Project\WP Mango Programming Practice\Source\Part 2\chapter 08\Begin\UsingBingMaps\Bin\Debug\ApplicationIcon.png
+D:\Project\WP Mango Programming Practice\Source\Part 2\chapter 08\Begin\UsingBingMaps\Bin\Debug\Background.png
+D:\Project\WP Mango Programming Practice\Source\Part 2\chapter 08\Begin\UsingBingMaps\Bin\Debug\UsingBingMaps.dll
+D:\Project\WP Mango Programming Practice\Source\Part 2\chapter 08\Begin\UsingBingMaps\Bin\Debug\UsingBingMaps.pdb
+D:\Project\WP Mango Programming Practice\Source\Part 2\chapter 08\Begin\UsingBingMaps\Bin\Debug\AppManifest.xaml
+D:\Project\WP Mango Programming Practice\Source\Part 2\chapter 08\Begin\UsingBingMaps\Bin\Debug\UsingBingMaps.xap
+D:\Project\WP Mango Programming Practice\Source\Part 2\chapter 08\Begin\UsingBingMaps\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\WP Mango Programming Practice\Source\Part 2\chapter 08\Begin\UsingBingMaps\obj\Debug\App.g.i.cs
+D:\Project\WP Mango Programming Practice\Source\Part 2\chapter 08\Begin\UsingBingMaps\obj\Debug\MainPage.g.i.cs
+D:\Project\WP Mango Programming Practice\Source\Part 2\chapter 08\Begin\UsingBingMaps\obj\Debug\UsingBingMaps.g.resources
+D:\Project\WP Mango Programming Practice\Source\Part 2\chapter 08\Begin\UsingBingMaps\obj\Debug\UsingBingMaps.dll
+D:\Project\WP Mango Programming Practice\Source\Part 2\chapter 08\Begin\UsingBingMaps\obj\Debug\UsingBingMaps.pdb
+D:\Project\WP Mango Programming Practice\Source\Part 2\chapter 08\Begin\UsingBingMaps\obj\Debug\XapCacheFile.xml

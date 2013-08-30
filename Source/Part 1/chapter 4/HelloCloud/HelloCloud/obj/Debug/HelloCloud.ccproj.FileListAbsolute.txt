@@ -1,0 +1,204 @@
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WebRole1\approot\About.aspx
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WebRole1\approot\Default.aspx
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WebRole1\approot\Global.asax
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WebRole1\approot\Site.Master
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WebRole1\approot\Web.config
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WebRole1\approot\Account\ChangePassword.aspx
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WebRole1\approot\Account\ChangePasswordSuccess.aspx
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WebRole1\approot\Account\Login.aspx
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WebRole1\approot\Account\Register.aspx
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WebRole1\approot\Account\Web.config
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WebRole1\approot\bin\Microsoft.WindowsAzure.Diagnostics.dll
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WebRole1\approot\bin\Microsoft.WindowsAzure.Diagnostics.xml
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WebRole1\approot\bin\Microsoft.WindowsAzure.StorageClient.dll
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WebRole1\approot\bin\Microsoft.WindowsAzure.StorageClient.xml
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WebRole1\approot\bin\WebRole1.dll
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WebRole1\approot\bin\WebRole1.pdb
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WebRole1\approot\Scripts\jquery-1.4.1-vsdoc.js
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WebRole1\approot\Scripts\jquery-1.4.1.js
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WebRole1\approot\Scripts\jquery-1.4.1.min.js
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WebRole1\approot\Styles\Site.css
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WebRole1\RuntimeSetup.Manifest
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WebRole1\base\x86\Diagnostics.dll
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WebRole1\base\x86\msshrtmi.dll
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WebRole1\base\x86\mswasr.dll
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WebRole1\base\x86\WaHostBootstrapper.exe
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WebRole1\base\x86\WaWebHost.exe
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WebRole1\base\x86\WaWorkerHost.exe
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WebRole1\diagnostics\x86\monitor\EtwListener.dll
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WebRole1\diagnostics\x86\monitor\FileListener.dll
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WebRole1\diagnostics\x86\monitor\MonAgent.dll
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WebRole1\diagnostics\x86\monitor\MonAgentHost.exe
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WebRole1\diagnostics\x86\monitor\MonEvents.dll
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WebRole1\diagnostics\x86\monitor\MonNetTransport.dll
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WebRole1\diagnostics\x86\monitor\MonQuery.dll
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WebRole1\diagnostics\x86\monitor\MonTables.dll
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WebRole1\diagnostics\x86\monitor\secutil.dll
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WebRole1\diagnostics\x86\monitor\SysCounterListener.dll
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WebRole1\diagnostics\x86\monitor\SystemEventsListener.dll
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WebRole1\diagnostics\x86\monitor\schema\1.0\ma.xsd
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WebRole1\diagnostics\x86\monitor\schema\1.0\MaStatic.xsd
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WebRole1\diagnostics\x86\monitor\schema\1.0\query.xsd
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WebRole1\diagnostics\x86\monitor\schema\1.0\QueryTableResponse.xsd
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WebRole1\diagnostics\x86\monitor\schema\1.0\shared.xsd
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WebRole1\storage\simulation\x86\CloudDrive.dll
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WCFServiceWebRole1\approot\Service1.svc
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WCFServiceWebRole1\approot\Web.config
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WCFServiceWebRole1\approot\bin\Microsoft.WindowsAzure.Diagnostics.dll
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WCFServiceWebRole1\approot\bin\Microsoft.WindowsAzure.Diagnostics.xml
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WCFServiceWebRole1\approot\bin\Microsoft.WindowsAzure.StorageClient.dll
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WCFServiceWebRole1\approot\bin\Microsoft.WindowsAzure.StorageClient.xml
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WCFServiceWebRole1\approot\bin\WCFServiceWebRole1.dll
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WCFServiceWebRole1\approot\bin\WCFServiceWebRole1.pdb
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WCFServiceWebRole1\RuntimeSetup.Manifest
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WCFServiceWebRole1\base\x86\Diagnostics.dll
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WCFServiceWebRole1\base\x86\msshrtmi.dll
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WCFServiceWebRole1\base\x86\mswasr.dll
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WCFServiceWebRole1\base\x86\WaHostBootstrapper.exe
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WCFServiceWebRole1\base\x86\WaWebHost.exe
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WCFServiceWebRole1\base\x86\WaWorkerHost.exe
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WCFServiceWebRole1\diagnostics\x86\monitor\EtwListener.dll
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WCFServiceWebRole1\diagnostics\x86\monitor\FileListener.dll
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WCFServiceWebRole1\diagnostics\x86\monitor\MonAgent.dll
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WCFServiceWebRole1\diagnostics\x86\monitor\MonAgentHost.exe
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WCFServiceWebRole1\diagnostics\x86\monitor\MonEvents.dll
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WCFServiceWebRole1\diagnostics\x86\monitor\MonNetTransport.dll
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WCFServiceWebRole1\diagnostics\x86\monitor\MonQuery.dll
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WCFServiceWebRole1\diagnostics\x86\monitor\MonTables.dll
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WCFServiceWebRole1\diagnostics\x86\monitor\secutil.dll
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WCFServiceWebRole1\diagnostics\x86\monitor\SysCounterListener.dll
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WCFServiceWebRole1\diagnostics\x86\monitor\SystemEventsListener.dll
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WCFServiceWebRole1\diagnostics\x86\monitor\schema\1.0\ma.xsd
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WCFServiceWebRole1\diagnostics\x86\monitor\schema\1.0\MaStatic.xsd
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WCFServiceWebRole1\diagnostics\x86\monitor\schema\1.0\query.xsd
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WCFServiceWebRole1\diagnostics\x86\monitor\schema\1.0\QueryTableResponse.xsd
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WCFServiceWebRole1\diagnostics\x86\monitor\schema\1.0\shared.xsd
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WCFServiceWebRole1\storage\simulation\x86\CloudDrive.dll
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WebRole1\__entrypoint.txt
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WebRole1\web.config
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WCFServiceWebRole1\__entrypoint.txt
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WCFServiceWebRole1\web.config
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WebRole1\RoleModel.xml
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WCFServiceWebRole1\RoleModel.xml
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\ServiceDefinition.rd
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\ServiceDefinition.rdsc
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\ServiceDefinition.csdef
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\ServiceConfiguration.cscfg
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\obj\Debug\ResolveAssemblyReference.cache
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\obj\Debug\WCFServiceWebRole1\bin\Microsoft.WindowsAzure.Diagnostics.dll
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\obj\Debug\WCFServiceWebRole1\bin\Microsoft.WindowsAzure.Diagnostics.xml
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\obj\Debug\WCFServiceWebRole1\bin\Microsoft.WindowsAzure.StorageClient.dll
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\obj\Debug\WCFServiceWebRole1\bin\Microsoft.WindowsAzure.StorageClient.xml
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\obj\Debug\WCFServiceWebRole1\bin\WCFServiceWebRole1.dll
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\obj\Debug\WCFServiceWebRole1\bin\WCFServiceWebRole1.pdb
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\obj\Debug\WCFServiceWebRole1\Service1.svc
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\obj\Debug\WCFServiceWebRole1\Web.config
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\obj\Debug\WebRole1\About.aspx
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\obj\Debug\WebRole1\Account\ChangePassword.aspx
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\obj\Debug\WebRole1\Account\ChangePasswordSuccess.aspx
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\obj\Debug\WebRole1\Account\Login.aspx
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\obj\Debug\WebRole1\Account\Register.aspx
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\obj\Debug\WebRole1\Account\Web.config
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\obj\Debug\WebRole1\bin\Microsoft.WindowsAzure.Diagnostics.dll
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\obj\Debug\WebRole1\bin\Microsoft.WindowsAzure.Diagnostics.xml
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\obj\Debug\WebRole1\bin\Microsoft.WindowsAzure.StorageClient.dll
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\obj\Debug\WebRole1\bin\Microsoft.WindowsAzure.StorageClient.xml
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\obj\Debug\WebRole1\bin\WebRole1.dll
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\obj\Debug\WebRole1\bin\WebRole1.pdb
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\obj\Debug\WebRole1\Default.aspx
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\obj\Debug\WebRole1\Global.asax
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\obj\Debug\WebRole1\Scripts\jquery-1.4.1-vsdoc.js
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\obj\Debug\WebRole1\Scripts\jquery-1.4.1.js
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\obj\Debug\WebRole1\Scripts\jquery-1.4.1.min.js
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\obj\Debug\WebRole1\Site.Master
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\obj\Debug\WebRole1\Styles\Site.css
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\obj\Debug\WebRole1\Web.config
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\ServiceConfiguration.cscfg
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WCFServiceWebRole1\approot\bin\Microsoft.WindowsAzure.Diagnostics.dll
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WCFServiceWebRole1\approot\bin\Microsoft.WindowsAzure.Diagnostics.xml
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WCFServiceWebRole1\approot\bin\Microsoft.WindowsAzure.StorageClient.dll
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WCFServiceWebRole1\approot\bin\Microsoft.WindowsAzure.StorageClient.xml
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WCFServiceWebRole1\approot\bin\WCFServiceWebRole1.dll
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WCFServiceWebRole1\approot\bin\WCFServiceWebRole1.pdb
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WCFServiceWebRole1\RuntimeSetup.Manifest
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WCFServiceWebRole1\base\x86\Diagnostics.dll
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WCFServiceWebRole1\base\x86\IISConfigurator.exe
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WCFServiceWebRole1\base\x86\msshrtmi.dll
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WCFServiceWebRole1\base\x86\mswasr.dll
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WCFServiceWebRole1\base\x86\mswasri.dll
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WCFServiceWebRole1\base\x86\WaHostBootstrapper.exe
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WCFServiceWebRole1\base\x86\WaIISHost.exe
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WCFServiceWebRole1\base\x86\WaRuntimeProxy.dll
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WCFServiceWebRole1\base\x86\WaWebHost.exe
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WCFServiceWebRole1\base\x86\WaWorkerHost.exe
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WCFServiceWebRole1\diagnostics\x86\monitor\EtwListener.dll
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WCFServiceWebRole1\diagnostics\x86\monitor\FileListener.dll
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WCFServiceWebRole1\diagnostics\x86\monitor\MonAgent.dll
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WCFServiceWebRole1\diagnostics\x86\monitor\MonAgentHost.exe
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WCFServiceWebRole1\diagnostics\x86\monitor\MonDiagnostics.dll
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WCFServiceWebRole1\diagnostics\x86\monitor\MonEvents.dll
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WCFServiceWebRole1\diagnostics\x86\monitor\MonNetTransport.dll
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WCFServiceWebRole1\diagnostics\x86\monitor\MonQuery.dll
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WCFServiceWebRole1\diagnostics\x86\monitor\MonTables.dll
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WCFServiceWebRole1\diagnostics\x86\monitor\secutil.dll
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WCFServiceWebRole1\diagnostics\x86\monitor\SysCounterListener.dll
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WCFServiceWebRole1\diagnostics\x86\monitor\SystemEventsListener.dll
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WCFServiceWebRole1\diagnostics\x86\monitor\schema\1.0\ma.xsd
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WCFServiceWebRole1\diagnostics\x86\monitor\schema\1.0\maStatic.xsd
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WCFServiceWebRole1\diagnostics\x86\monitor\schema\1.0\query.xsd
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WCFServiceWebRole1\diagnostics\x86\monitor\schema\1.0\shared.xsd
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WebRole1\approot\bin\Microsoft.WindowsAzure.Diagnostics.dll
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WebRole1\approot\bin\Microsoft.WindowsAzure.Diagnostics.xml
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WebRole1\approot\bin\Microsoft.WindowsAzure.StorageClient.dll
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WebRole1\approot\bin\Microsoft.WindowsAzure.StorageClient.xml
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WebRole1\approot\bin\WebRole1.dll
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WebRole1\approot\bin\WebRole1.pdb
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WebRole1\RuntimeSetup.Manifest
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WebRole1\base\x86\Diagnostics.dll
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WebRole1\base\x86\IISConfigurator.exe
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WebRole1\base\x86\msshrtmi.dll
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WebRole1\base\x86\mswasr.dll
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WebRole1\base\x86\mswasri.dll
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WebRole1\base\x86\WaHostBootstrapper.exe
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WebRole1\base\x86\WaIISHost.exe
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WebRole1\base\x86\WaRuntimeProxy.dll
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WebRole1\base\x86\WaWebHost.exe
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WebRole1\base\x86\WaWorkerHost.exe
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WebRole1\diagnostics\x86\monitor\EtwListener.dll
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WebRole1\diagnostics\x86\monitor\FileListener.dll
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WebRole1\diagnostics\x86\monitor\MonAgent.dll
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WebRole1\diagnostics\x86\monitor\MonAgentHost.exe
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WebRole1\diagnostics\x86\monitor\MonDiagnostics.dll
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WebRole1\diagnostics\x86\monitor\MonEvents.dll
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WebRole1\diagnostics\x86\monitor\MonNetTransport.dll
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WebRole1\diagnostics\x86\monitor\MonQuery.dll
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WebRole1\diagnostics\x86\monitor\MonTables.dll
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WebRole1\diagnostics\x86\monitor\secutil.dll
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WebRole1\diagnostics\x86\monitor\SysCounterListener.dll
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WebRole1\diagnostics\x86\monitor\SystemEventsListener.dll
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WebRole1\diagnostics\x86\monitor\schema\1.0\ma.xsd
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WebRole1\diagnostics\x86\monitor\schema\1.0\maStatic.xsd
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WebRole1\diagnostics\x86\monitor\schema\1.0\query.xsd
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WebRole1\diagnostics\x86\monitor\schema\1.0\shared.xsd
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WCFServiceWebRole1\__entrypoint.txt
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WCFServiceWebRole1\base\x86\WaIISHost.exe.config
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WebRole1\__entrypoint.txt
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WebRole1\base\x86\WaIISHost.exe.config
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WCFServiceWebRole1\RoleModel.xml
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\roles\WebRole1\RoleModel.xml
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\ServiceDefinition.build.rd
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\ServiceDefinition.build.rdsc
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\bin\Debug\HelloCloud.csx\ServiceDefinition.build.csdef
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\obj\Debug\WCFServiceWebRole1\bin\Microsoft.WindowsAzure.Diagnostics.dll
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\obj\Debug\WCFServiceWebRole1\bin\Microsoft.WindowsAzure.Diagnostics.xml
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\obj\Debug\WCFServiceWebRole1\bin\Microsoft.WindowsAzure.StorageClient.dll
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\obj\Debug\WCFServiceWebRole1\bin\Microsoft.WindowsAzure.StorageClient.xml
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\obj\Debug\WCFServiceWebRole1\bin\WCFServiceWebRole1.dll
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\obj\Debug\WCFServiceWebRole1\bin\WCFServiceWebRole1.pdb
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\obj\Debug\WebRole1\bin\Microsoft.WindowsAzure.Diagnostics.dll
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\obj\Debug\WebRole1\bin\Microsoft.WindowsAzure.Diagnostics.xml
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\obj\Debug\WebRole1\bin\Microsoft.WindowsAzure.StorageClient.dll
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\obj\Debug\WebRole1\bin\Microsoft.WindowsAzure.StorageClient.xml
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\obj\Debug\WebRole1\bin\WebRole1.dll
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\HelloCloud\obj\Debug\WebRole1\bin\WebRole1.pdb

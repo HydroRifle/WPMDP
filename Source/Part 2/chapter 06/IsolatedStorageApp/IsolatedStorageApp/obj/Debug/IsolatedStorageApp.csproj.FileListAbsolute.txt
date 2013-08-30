@@ -1,0 +1,26 @@
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 06\IsolatedStorageApp\IsolatedStorageApp\Bin\Debug\ApplicationIcon.png
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 06\IsolatedStorageApp\IsolatedStorageApp\Bin\Debug\Background.png
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 06\IsolatedStorageApp\IsolatedStorageApp\Bin\Debug\IsolatedStorageApp.dll
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 06\IsolatedStorageApp\IsolatedStorageApp\Bin\Debug\IsolatedStorageApp.pdb
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 06\IsolatedStorageApp\IsolatedStorageApp\Bin\Debug\AppManifest.xaml
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 06\IsolatedStorageApp\IsolatedStorageApp\Bin\Debug\IsolatedStorageApp.xap
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 06\IsolatedStorageApp\IsolatedStorageApp\obj\Debug\ResolveAssemblyReference.cache
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 06\IsolatedStorageApp\IsolatedStorageApp\obj\Debug\App.g.i.cs
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 06\IsolatedStorageApp\IsolatedStorageApp\obj\Debug\MainPage.g.i.cs
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 06\IsolatedStorageApp\IsolatedStorageApp\obj\Debug\IsolatedStorageApp.g.resources
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 06\IsolatedStorageApp\IsolatedStorageApp\obj\Debug\IsolatedStorageApp.dll
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 06\IsolatedStorageApp\IsolatedStorageApp\obj\Debug\IsolatedStorageApp.pdb
+D:\MyProject\WP7 Programming Practice\Part 2\chapter 06\IsolatedStorageApp\IsolatedStorageApp\obj\Debug\XapCacheFile.xml
+D:\Project\WP Mango Programming Practice\Part 2\chapter 06\IsolatedStorageApp\IsolatedStorageApp\Bin\Debug\ApplicationIcon.png
+D:\Project\WP Mango Programming Practice\Part 2\chapter 06\IsolatedStorageApp\IsolatedStorageApp\Bin\Debug\Background.png
+D:\Project\WP Mango Programming Practice\Part 2\chapter 06\IsolatedStorageApp\IsolatedStorageApp\Bin\Debug\IsolatedStorageApp.dll
+D:\Project\WP Mango Programming Practice\Part 2\chapter 06\IsolatedStorageApp\IsolatedStorageApp\Bin\Debug\IsolatedStorageApp.pdb
+D:\Project\WP Mango Programming Practice\Part 2\chapter 06\IsolatedStorageApp\IsolatedStorageApp\Bin\Debug\AppManifest.xaml
+D:\Project\WP Mango Programming Practice\Part 2\chapter 06\IsolatedStorageApp\IsolatedStorageApp\Bin\Debug\IsolatedStorageApp.xap
+D:\Project\WP Mango Programming Practice\Part 2\chapter 06\IsolatedStorageApp\IsolatedStorageApp\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\WP Mango Programming Practice\Part 2\chapter 06\IsolatedStorageApp\IsolatedStorageApp\obj\Debug\App.g.i.cs
+D:\Project\WP Mango Programming Practice\Part 2\chapter 06\IsolatedStorageApp\IsolatedStorageApp\obj\Debug\MainPage.g.i.cs
+D:\Project\WP Mango Programming Practice\Part 2\chapter 06\IsolatedStorageApp\IsolatedStorageApp\obj\Debug\IsolatedStorageApp.g.resources
+D:\Project\WP Mango Programming Practice\Part 2\chapter 06\IsolatedStorageApp\IsolatedStorageApp\obj\Debug\IsolatedStorageApp.dll
+D:\Project\WP Mango Programming Practice\Part 2\chapter 06\IsolatedStorageApp\IsolatedStorageApp\obj\Debug\IsolatedStorageApp.pdb
+D:\Project\WP Mango Programming Practice\Part 2\chapter 06\IsolatedStorageApp\IsolatedStorageApp\obj\Debug\XapCacheFile.xml

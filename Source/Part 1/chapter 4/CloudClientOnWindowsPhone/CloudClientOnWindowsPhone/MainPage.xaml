@@ -1,0 +1,55 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="CloudClientOnWindowsPhone.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:toolkit="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls.Toolkit"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="PortraitOrLandscape" Orientation="Portrait"
+    mc:Ignorable="d" shell:SystemTray.IsVisible="True" MouseLeave="PhoneApplicationPage_MouseLeave" d:DesignHeight="768" d:DesignWidth="480">
+
+    <!--LayoutRoot contains the root grid where all other page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="12,17,0,28">
+            <TextBlock x:Name="ApplicationTitle" Text="MY APPLICATION" Style="{StaticResource PhoneTextNormalStyle}"/>
+            <TextBlock x:Name="PageTitle" Text="page name" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}"/>
+        </StackPanel>
+
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentGrid" Grid.Row="1">
+        <TextBlock Text="Local Time" Style="{StaticResource PhoneTextNormalStyle}" Margin="10,47,259,532" />
+        <toolkit:DatePicker Margin="0,91,307,445" />
+        <toolkit:TimePicker Margin="156,91,176,451" />
+        <TextBlock Name="textBlock1" Text="** **" FontSize="40" TextAlignment="Center" Height="59" VerticalAlignment="Bottom" Margin="12,0,12,153" Visibility="Visible" />
+        <TextBlock Style="{StaticResource PhoneTextNormalStyle}" Text="Cloud Time" Margin="12,225,347,351" />
+        <TextBlock Name="textBlock2" Text="** **" FontSize="72" TextAlignment="Center" Height="97" VerticalAlignment="Top" Margin="10,278,12,0" Visibility="Visible" />
+        <TextBlock Height="48" Margin="6,499,0,0" Name="textBlock3" Text="Touch To Get Cloud Date and Time" VerticalAlignment="Top" TextAlignment="Center" Opacity="0.5" Visibility="Visible" />
+        </Grid>
+    </Grid>
+    
+    <!-- Sample code showing usage of ApplicationBar
+    <phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True">
+            <shell:ApplicationBarIconButton x:Name="appbar_button1" IconUri="/Images/appbar_button1.png" Text="Button 1"></shell:ApplicationBarIconButton>
+            <shell:ApplicationBarIconButton x:Name="appbar_button2" IconUri="/Images/appbar_button2.png" Text="Button 2"></shell:ApplicationBarIconButton>
+            <shell:ApplicationBar.MenuItems>
+                <shell:ApplicationBarMenuItem x:Name="menuItem1" Text="MenuItem 1"></shell:ApplicationBarMenuItem>
+                <shell:ApplicationBarMenuItem x:Name="menuItem2" Text="MenuItem 2"></shell:ApplicationBarMenuItem>
+            </shell:ApplicationBar.MenuItems>
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>
+    -->
+
+
+</phone:PhoneApplicationPage>

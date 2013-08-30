@@ -1,0 +1,15 @@
+D:\Project\temp\ShakeGestures\ShakeGestures\Bin\Debug\ShakeGestures.dll
+D:\Project\temp\ShakeGestures\ShakeGestures\Bin\Debug\ShakeGestures.pdb
+D:\Project\temp\ShakeGestures\ShakeGestures\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\temp\ShakeGestures\ShakeGestures\obj\Debug\ShakeGestures.dll
+D:\Project\temp\ShakeGestures\ShakeGestures\obj\Debug\ShakeGestures.pdb
+D:\Project\MyMangoProject\MarsImageViewer\ShakeGestures\Bin\Debug\ShakeGestures.dll
+D:\Project\MyMangoProject\MarsImageViewer\ShakeGestures\Bin\Debug\ShakeGestures.pdb
+D:\Project\MyMangoProject\MarsImageViewer\ShakeGestures\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\MyMangoProject\MarsImageViewer\ShakeGestures\obj\Debug\ShakeGestures.dll
+D:\Project\MyMangoProject\MarsImageViewer\ShakeGestures\obj\Debug\ShakeGestures.pdb
+D:\MyProject\MyMangoProject\MarsImageViewer\ShakeGestures\Bin\Debug\ShakeGestures.dll
+D:\MyProject\MyMangoProject\MarsImageViewer\ShakeGestures\Bin\Debug\ShakeGestures.pdb
+D:\MyProject\MyMangoProject\MarsImageViewer\ShakeGestures\obj\Debug\ResolveAssemblyReference.cache
+D:\MyProject\MyMangoProject\MarsImageViewer\ShakeGestures\obj\Debug\ShakeGestures.dll
+D:\MyProject\MyMangoProject\MarsImageViewer\ShakeGestures\obj\Debug\ShakeGestures.pdb

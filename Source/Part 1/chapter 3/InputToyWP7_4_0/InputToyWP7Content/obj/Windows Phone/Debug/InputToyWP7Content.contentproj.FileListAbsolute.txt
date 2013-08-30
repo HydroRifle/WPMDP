@@ -1,0 +1,2 @@
+D:\MyProject\WP Mango Programming Practice\Part 1\chapter 3\InputToyWP7_4_0\InputToyWP7Content\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+D:\Project\WP Mango Programming Practice\Part 1\chapter 3\InputToyWP7_4_0\InputToyWP7Content\obj\Windows Phone\Debug\ResolveAssemblyReference.cache

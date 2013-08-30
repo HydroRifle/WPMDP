@@ -1,0 +1,37 @@
+C:\test\AccelerometerEnabledGame\AccelerometerEnabledGame\AccelerometerEnabledGame\bin\Windows Phone\Debug\AccelerometerEnabledGame.dll
+C:\test\AccelerometerEnabledGame\AccelerometerEnabledGame\AccelerometerEnabledGame\bin\Windows Phone\Debug\AccelerometerEnabledGame.pdb
+C:\test\AccelerometerEnabledGame\AccelerometerEnabledGame\AccelerometerEnabledGame\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\test\AccelerometerEnabledGame\AccelerometerEnabledGame\AccelerometerEnabledGame\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\test\AccelerometerEnabledGame\AccelerometerEnabledGame\AccelerometerEnabledGame\obj\Windows Phone\Debug\AccelerometerEnabledGame.dll
+C:\test\AccelerometerEnabledGame\AccelerometerEnabledGame\AccelerometerEnabledGame\obj\Windows Phone\Debug\AccelerometerEnabledGame.pdb
+C:\test\AccelerometerEnabledGame\AccelerometerEnabledGame\AccelerometerEnabledGame\bin\Windows Phone\Debug\AppManifest.xaml
+C:\test\AccelerometerEnabledGame\AccelerometerEnabledGame\AccelerometerEnabledGame\obj\Windows Phone\Debug\WMAppManifest.xml.g
+C:\test\AccelerometerEnabledGame\AccelerometerEnabledGame\AccelerometerEnabledGame\obj\Windows Phone\Debug\WMAppManifest.xml
+C:\test\AccelerometerEnabledGame\AccelerometerEnabledGame\AccelerometerEnabledGame\bin\Windows Phone\Debug\AccelerometerEnabledGame.xap
+C:\test\AccelerometerEnabledGame\AccelerometerEnabledGame\AccelerometerEnabledGame\obj\Windows Phone\Debug\XapCacheFile.xml
+C:\test\AccelerometerEnabledGame\AccelerometerEnabledGame\AccelerometerEnabledGame\bin\Windows Phone\Debug\Content\xna.xnb
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\AccelerometerEnabledGame\AccelerometerEnabledGame\AccelerometerEnabledGame\bin\Windows Phone\Debug\Content\xna.xnb
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\AccelerometerEnabledGame\AccelerometerEnabledGame\AccelerometerEnabledGame\bin\Windows Phone\Debug\AccelerometerEnabledGame.dll
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\AccelerometerEnabledGame\AccelerometerEnabledGame\AccelerometerEnabledGame\bin\Windows Phone\Debug\AccelerometerEnabledGame.pdb
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\AccelerometerEnabledGame\AccelerometerEnabledGame\AccelerometerEnabledGame\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\AccelerometerEnabledGame\AccelerometerEnabledGame\AccelerometerEnabledGame\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\AccelerometerEnabledGame\AccelerometerEnabledGame\AccelerometerEnabledGame\obj\Windows Phone\Debug\AccelerometerEnabledGame.dll
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\AccelerometerEnabledGame\AccelerometerEnabledGame\AccelerometerEnabledGame\obj\Windows Phone\Debug\AccelerometerEnabledGame.pdb
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\AccelerometerEnabledGame\AccelerometerEnabledGame\AccelerometerEnabledGame\bin\Windows Phone\Debug\AppManifest.xaml
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\AccelerometerEnabledGame\AccelerometerEnabledGame\AccelerometerEnabledGame\obj\Windows Phone\Debug\WMAppManifest.xml.g
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\AccelerometerEnabledGame\AccelerometerEnabledGame\AccelerometerEnabledGame\obj\Windows Phone\Debug\WMAppManifest.xml
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\AccelerometerEnabledGame\AccelerometerEnabledGame\AccelerometerEnabledGame\bin\Windows Phone\Debug\AccelerometerEnabledGame.xap
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\AccelerometerEnabledGame\AccelerometerEnabledGame\AccelerometerEnabledGame\obj\Windows Phone\Debug\XapCacheFile.xml
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\AccelerometerEnabledGame\AccelerometerEnabledGame\AccelerometerEnabledGame\bin\Windows Phone\Debug\Content\xna.xnb
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\AccelerometerEnabledGame\AccelerometerEnabledGame\AccelerometerEnabledGame\bin\Windows Phone\Debug\AccelerometerEnabledGame.dll
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\AccelerometerEnabledGame\AccelerometerEnabledGame\AccelerometerEnabledGame\bin\Windows Phone\Debug\AccelerometerEnabledGame.pdb
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\AccelerometerEnabledGame\AccelerometerEnabledGame\AccelerometerEnabledGame\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\AccelerometerEnabledGame\AccelerometerEnabledGame\AccelerometerEnabledGame\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\AccelerometerEnabledGame\AccelerometerEnabledGame\AccelerometerEnabledGame\obj\Windows Phone\Debug\AccelerometerEnabledGame.dll
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\AccelerometerEnabledGame\AccelerometerEnabledGame\AccelerometerEnabledGame\obj\Windows Phone\Debug\AccelerometerEnabledGame.pdb
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\AccelerometerEnabledGame\AccelerometerEnabledGame\AccelerometerEnabledGame\bin\Windows Phone\Debug\AppManifest.xaml
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\AccelerometerEnabledGame\AccelerometerEnabledGame\AccelerometerEnabledGame\obj\Windows Phone\Debug\WMAppManifest.xml.g
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\AccelerometerEnabledGame\AccelerometerEnabledGame\AccelerometerEnabledGame\obj\Windows Phone\Debug\WMAppManifest.xml
+bin\Windows Phone\Debug\
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\AccelerometerEnabledGame\AccelerometerEnabledGame\AccelerometerEnabledGame\bin\Windows Phone\Debug\AccelerometerEnabledGame.xap
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\AccelerometerEnabledGame\AccelerometerEnabledGame\AccelerometerEnabledGame\obj\Windows Phone\Debug\XapCacheFile.xml

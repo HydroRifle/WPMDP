@@ -1,0 +1,59 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="MarsImageViewer.Caption"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d" d:DesignHeight="768" d:DesignWidth="480"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="12,17,0,28">
+            <TextBlock x:Name="PageTitle" Text="探索火星" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle2Style}"/>
+        </StackPanel>
+
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0">
+            <TextBlock Height="40" HorizontalAlignment="Left" Margin="9,31,0,0" Name="textBlock1" 
+                       Text="初探Dallas" 
+                       VerticalAlignment="Top" Style="{StaticResource PhoneTextTitle2Style}" Width="162" />
+            <Image Height="63" HorizontalAlignment="Left" Margin="9,77,0,0" Name="image1" Stretch="None" VerticalAlignment="Top" Width="324" Source="images/dallas.PNG" />
+
+            <TextBlock Height="126" HorizontalAlignment="Left" Margin="9,155,0,0" Name="textBlock2" 
+                       Text="Dallas项目（现为Windows Azure Marketplace）是微软提供的数据交易和分享平台,即能够让数据提供商通过Dallas平台公布API使数据消费者以OData协议共享数据。"
+                        VerticalAlignment="Top" Width="441" TextWrapping="Wrap" />
+            <TextBlock Height="59" HorizontalAlignment="Left" Margin="9,320,0,0" Name="textBlock3" 
+                       Text="本应用程序通过Dallas CTP3获取美国火星探测行动拍摄到的共享图片。" VerticalAlignment="Top" Width="441" TextWrapping="Wrap" />
+            <Image Height="89" HorizontalAlignment="Left" Margin="9,385,0,0" Name="image2" Stretch="None" VerticalAlignment="Top" Width="103" Source="images/nasa.PNG"/>
+            <TextBlock Height="40" HorizontalAlignment="Left" Margin="9,485,0,0" Name="textBlock4" 
+                       Text="这是一个很有趣的应用，在此分享。" VerticalAlignment="Top" Width="441" TextWrapping="Wrap" />
+            <TextBlock Height="44" HorizontalAlignment="Left" Margin="9,531,0,0" Name="textBlock5" Text="作者： 雪松" VerticalAlignment="Top" Width="197" TextWrapping="Wrap" />
+        </Grid>
+    </Grid>
+ 
+    <!--Sample code showing usage of ApplicationBar-->
+    <phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="False" Opacity="0">
+            <shell:ApplicationBarIconButton 
+                x:Name="appbar_BackButton" 
+                IconUri="/Images/appbar.check.rest.png" 
+                Text="Back" 
+                Click="appbar_BackButton_Click">
+            </shell:ApplicationBarIconButton>          
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>
+
+</phone:PhoneApplicationPage>

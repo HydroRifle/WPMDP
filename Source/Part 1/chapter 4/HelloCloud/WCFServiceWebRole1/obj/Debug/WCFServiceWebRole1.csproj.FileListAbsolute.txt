@@ -1,0 +1,18 @@
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\WCFServiceWebRole1\bin\WCFServiceWebRole1.dll
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\WCFServiceWebRole1\bin\WCFServiceWebRole1.pdb
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\WCFServiceWebRole1\bin\Microsoft.WindowsAzure.Diagnostics.dll
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\WCFServiceWebRole1\bin\Microsoft.WindowsAzure.StorageClient.dll
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\WCFServiceWebRole1\bin\Microsoft.WindowsAzure.Diagnostics.xml
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\WCFServiceWebRole1\bin\Microsoft.WindowsAzure.StorageClient.xml
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\WCFServiceWebRole1\obj\Debug\ResolveAssemblyReference.cache
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\WCFServiceWebRole1\obj\Debug\WCFServiceWebRole1.dll
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\HelloCloud\WCFServiceWebRole1\obj\Debug\WCFServiceWebRole1.pdb
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\WCFServiceWebRole1\bin\WCFServiceWebRole1.dll
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\WCFServiceWebRole1\bin\WCFServiceWebRole1.pdb
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\WCFServiceWebRole1\bin\Microsoft.WindowsAzure.Diagnostics.dll
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\WCFServiceWebRole1\bin\Microsoft.WindowsAzure.StorageClient.dll
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\WCFServiceWebRole1\bin\Microsoft.WindowsAzure.Diagnostics.xml
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\WCFServiceWebRole1\bin\Microsoft.WindowsAzure.StorageClient.xml
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\WCFServiceWebRole1\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\WCFServiceWebRole1\obj\Debug\WCFServiceWebRole1.dll
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\HelloCloud\WCFServiceWebRole1\obj\Debug\WCFServiceWebRole1.pdb

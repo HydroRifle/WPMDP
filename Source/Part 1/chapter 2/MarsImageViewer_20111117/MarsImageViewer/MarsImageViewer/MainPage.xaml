@@ -1,0 +1,116 @@
+﻿<phone:PhoneApplicationPage 
+    Title="Explore Mars"
+    x:Class="MarsImageViewer.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:toolkit="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls.Toolkit"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="PortraitOrLandscape" Orientation="Portrait"
+    mc:Ignorable="d" d:DesignHeight="768" d:DesignWidth="480"
+    shell:SystemTray.IsVisible="True"
+    toolkit:TiltEffect.IsTiltEnabled="True" 
+    OrientationChanged="PhoneApplicationPage_OrientationChanged">
+
+    <toolkit:TransitionService.NavigationInTransition>
+        <toolkit:NavigationInTransition>
+            <toolkit:NavigationInTransition.Backward>
+                <toolkit:TurnstileTransition Mode="BackwardIn"/>
+            </toolkit:NavigationInTransition.Backward>
+            <toolkit:NavigationInTransition.Forward>
+                <toolkit:TurnstileTransition Mode="ForwardIn"/>
+            </toolkit:NavigationInTransition.Forward>
+        </toolkit:NavigationInTransition>
+    </toolkit:TransitionService.NavigationInTransition>
+    <toolkit:TransitionService.NavigationOutTransition>
+        <toolkit:NavigationOutTransition>
+            <toolkit:NavigationOutTransition.Backward>
+                <toolkit:TurnstileTransition Mode="BackwardOut"/>
+            </toolkit:NavigationOutTransition.Backward>
+            <toolkit:NavigationOutTransition.Forward>
+                <toolkit:TurnstileTransition Mode="ForwardOut"/>
+            </toolkit:NavigationOutTransition.Forward>
+        </toolkit:NavigationOutTransition>
+    </toolkit:TransitionService.NavigationOutTransition>
+
+    <!--LayoutRoot contains the root grid where all other page content is placed-->
+    <Grid x:Name="LayoutRoot">
+        <Grid.Background>
+            <ImageBrush ImageSource="/Images/PivotBackground.png" Stretch="Fill"></ImageBrush>
+        </Grid.Background>
+        <!--<Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>-->
+      
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentPanel" Width="480" Height="768" Margin="0,0,0,0">
+            <Border x:Name="border" BorderBrush="{StaticResource PhoneForegroundBrush}" 
+                    RenderTransformOrigin="0.5,0.5" Opacity="1" CacheMode="BitmapCache"
+                    Width="480" Height="768">
+                <Border.RenderTransform>
+                    <CompositeTransform x:Name="transform"/>
+                </Border.RenderTransform>
+                <Image HorizontalAlignment="Left" Name="MarsImage" 
+                       Stretch="UniformToFill" 
+                       VerticalAlignment="Top">
+                    <toolkit:GestureService.GestureListener>
+                        <toolkit:GestureListener 
+                        Tap="OnTap" Hold="OnHold"
+                        DragStarted="OnDragStarted" DragDelta="OnDragDelta" DragCompleted="OnDragCompleted"
+                        Flick="OnFlick"
+                        PinchStarted="OnPinchStarted" PinchDelta="OnPinchDelta" PinchCompleted="OnPinchCompleted"/>
+                    </toolkit:GestureService.GestureListener>
+                </Image>
+            </Border>
+            <!--<TextBlock x:Name="flickData" Margin="0, 0, 0, 300" Foreground="Red"  Text="Flick:" Style="{StaticResource PhoneTextNormalStyle}" VerticalAlignment="Bottom"/>-->
+        </Grid>
+        <StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="12,17,0,28">
+            <TextBlock x:Name="ApplicationTitle" Text="SHAKE MARS" Foreground="Red"  Style="{StaticResource PhoneTextNormalStyle}"/>
+            <TextBlock x:Name="PageTitle" Text="Please touch and shake me."  Foreground="Red" Style="{StaticResource PhoneTextTitle2Style}"/>
+        </StackPanel>
+    </Grid>
+
+    <!-- Sample code showing usage of ApplicationBar -->
+    <phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="False" BackgroundColor="Red" Opacity="0.5" Mode="Minimized">
+            <!--<shell:ApplicationBarIconButton 
+                x:Name="appbar_BackButton" 
+                IconUri="/Images/appbar.back.png" 
+                Text="Back" 
+                Click="appbar_BackButton_Click"
+                IsEnabled="False">
+            </shell:ApplicationBarIconButton>-->
+            <shell:ApplicationBarIconButton 
+                x:Name="appbar_ForwardButton" 
+                IconUri="/Images/appbar.next.png" 
+                Text="Next" 
+                Click="appbar_ForwardButton_Click">
+            </shell:ApplicationBarIconButton>                   
+            <shell:ApplicationBarIconButton 
+                x:Name="appbar_AboutButton" 
+                IconUri="/Images/appbar.about.png" 
+                Text="Help" 
+                Click="appbar_AboutButton_Click">
+            </shell:ApplicationBarIconButton>
+            <!--<shell:ApplicationBarIconButton 
+                x:Name="appbar_ForwardButton" 
+                IconUri="/Images/appbar.next.png" 
+                Text="Next" 
+                Click="appbar_ForwardButton_Click">
+            </shell:ApplicationBarIconButton>
+            <shell:ApplicationBarIconButton 
+                x:Name="appbar_BackButton" 
+                IconUri="/Images/appbar.favs.addto.rest.png" 
+                Text="Favs" 
+                Click="appbar_FavoriteButton_Click">
+            </shell:ApplicationBarIconButton>     -->
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>
+
+</phone:PhoneApplicationPage>

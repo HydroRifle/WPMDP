@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Web Developer Express 2010
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "HelloCloud", "HelloCloud\HelloCloud.ccproj", "{C1ED337C-579B-473B-B509-FB76E520010B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebRole1", "WebRole1\WebRole1.csproj", "{D4CD0ABA-9952-4DE0-929F-90C72D5EBB79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFServiceWebRole1", "WCFServiceWebRole1\WCFServiceWebRole1.csproj", "{3B96BB86-8BE5-41BF-83EB-26B6762FA140}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1ED337C-579B-473B-B509-FB76E520010B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1ED337C-579B-473B-B509-FB76E520010B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1ED337C-579B-473B-B509-FB76E520010B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1ED337C-579B-473B-B509-FB76E520010B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4CD0ABA-9952-4DE0-929F-90C72D5EBB79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4CD0ABA-9952-4DE0-929F-90C72D5EBB79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4CD0ABA-9952-4DE0-929F-90C72D5EBB79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4CD0ABA-9952-4DE0-929F-90C72D5EBB79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B96BB86-8BE5-41BF-83EB-26B6762FA140}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B96BB86-8BE5-41BF-83EB-26B6762FA140}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B96BB86-8BE5-41BF-83EB-26B6762FA140}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B96BB86-8BE5-41BF-83EB-26B6762FA140}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

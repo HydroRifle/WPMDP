@@ -1,0 +1,88 @@
+D:\MyProject\WP Mango Programming Practice\Part 3\chapter 16\Shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\bgLayer1.xnb
+D:\MyProject\WP Mango Programming Practice\Part 3\chapter 16\Shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\bgLayer2.xnb
+D:\MyProject\WP Mango Programming Practice\Part 3\chapter 16\Shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\endMenu.xnb
+D:\MyProject\WP Mango Programming Practice\Part 3\chapter 16\Shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\explosion.xnb
+D:\MyProject\WP Mango Programming Practice\Part 3\chapter 16\Shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\laser.xnb
+D:\MyProject\WP Mango Programming Practice\Part 3\chapter 16\Shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\mainbackground.xnb
+D:\MyProject\WP Mango Programming Practice\Part 3\chapter 16\Shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\mainMenu.xnb
+D:\MyProject\WP Mango Programming Practice\Part 3\chapter 16\Shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\mine.xnb
+D:\MyProject\WP Mango Programming Practice\Part 3\chapter 16\Shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\mineAnimation.xnb
+D:\MyProject\WP Mango Programming Practice\Part 3\chapter 16\Shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\player.xnb
+D:\MyProject\WP Mango Programming Practice\Part 3\chapter 16\Shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\shipAnimation.xnb
+D:\MyProject\WP Mango Programming Practice\Part 3\chapter 16\Shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\Sound\explosion.xnb
+D:\MyProject\WP Mango Programming Practice\Part 3\chapter 16\Shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\Sound\laserFire.xnb
+D:\MyProject\WP Mango Programming Practice\Part 3\chapter 16\Shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\Sound\gameMusic.xnb
+D:\MyProject\WP Mango Programming Practice\Part 3\chapter 16\Shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\Sound\menuMusic.xnb
+D:\MyProject\WP Mango Programming Practice\Part 3\chapter 16\Shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\gameFont.xnb
+D:\MyProject\WP Mango Programming Practice\Part 3\chapter 16\Shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\Sound\gameMusic.wma
+D:\MyProject\WP Mango Programming Practice\Part 3\chapter 16\Shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\Sound\menuMusic.wma
+D:\MyProject\WP Mango Programming Practice\Part 3\chapter 16\Shooter\Shooter\Shooter\bin\Windows Phone\Debug\Shooter.dll
+D:\MyProject\WP Mango Programming Practice\Part 3\chapter 16\Shooter\Shooter\Shooter\bin\Windows Phone\Debug\Shooter.pdb
+D:\MyProject\WP Mango Programming Practice\Part 3\chapter 16\Shooter\Shooter\Shooter\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+D:\MyProject\WP Mango Programming Practice\Part 3\chapter 16\Shooter\Shooter\Shooter\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\MyProject\WP Mango Programming Practice\Part 3\chapter 16\Shooter\Shooter\Shooter\obj\Windows Phone\Debug\Shooter.dll
+D:\MyProject\WP Mango Programming Practice\Part 3\chapter 16\Shooter\Shooter\Shooter\obj\Windows Phone\Debug\Shooter.pdb
+D:\MyProject\WP Mango Programming Practice\Part 3\chapter 16\Shooter\Shooter\Shooter\bin\Windows Phone\Debug\AppManifest.xaml
+D:\MyProject\WP Mango Programming Practice\Part 3\chapter 16\Shooter\Shooter\Shooter\obj\Windows Phone\Debug\WMAppManifest.xml.g
+D:\MyProject\WP Mango Programming Practice\Part 3\chapter 16\Shooter\Shooter\Shooter\obj\Windows Phone\Debug\WMAppManifest.xml
+bin\Windows Phone\Debug\
+D:\MyProject\WP Mango Programming Practice\Part 3\chapter 16\Shooter\Shooter\Shooter\bin\Windows Phone\Debug\Shooter.xap
+D:\MyProject\WP Mango Programming Practice\Part 3\chapter 16\Shooter\Shooter\Shooter\obj\Windows Phone\Debug\XapCacheFile.xml
+D:\Project\WP Mango Programming Practice\Part 3\chapter 16\Shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\bgLayer1.xnb
+D:\Project\WP Mango Programming Practice\Part 3\chapter 16\Shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\bgLayer2.xnb
+D:\Project\WP Mango Programming Practice\Part 3\chapter 16\Shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\endMenu.xnb
+D:\Project\WP Mango Programming Practice\Part 3\chapter 16\Shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\explosion.xnb
+D:\Project\WP Mango Programming Practice\Part 3\chapter 16\Shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\laser.xnb
+D:\Project\WP Mango Programming Practice\Part 3\chapter 16\Shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\mainbackground.xnb
+D:\Project\WP Mango Programming Practice\Part 3\chapter 16\Shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\mainMenu.xnb
+D:\Project\WP Mango Programming Practice\Part 3\chapter 16\Shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\mine.xnb
+D:\Project\WP Mango Programming Practice\Part 3\chapter 16\Shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\mineAnimation.xnb
+D:\Project\WP Mango Programming Practice\Part 3\chapter 16\Shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\player.xnb
+D:\Project\WP Mango Programming Practice\Part 3\chapter 16\Shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\shipAnimation.xnb
+D:\Project\WP Mango Programming Practice\Part 3\chapter 16\Shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\Sound\explosion.xnb
+D:\Project\WP Mango Programming Practice\Part 3\chapter 16\Shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\Sound\laserFire.xnb
+D:\Project\WP Mango Programming Practice\Part 3\chapter 16\Shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\Sound\gameMusic.xnb
+D:\Project\WP Mango Programming Practice\Part 3\chapter 16\Shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\Sound\menuMusic.xnb
+D:\Project\WP Mango Programming Practice\Part 3\chapter 16\Shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\gameFont.xnb
+D:\Project\WP Mango Programming Practice\Part 3\chapter 16\Shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\Sound\gameMusic.wma
+D:\Project\WP Mango Programming Practice\Part 3\chapter 16\Shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\Sound\menuMusic.wma
+D:\Project\WP Mango Programming Practice\Part 3\chapter 16\Shooter\Shooter\Shooter\bin\Windows Phone\Debug\Shooter.dll
+D:\Project\WP Mango Programming Practice\Part 3\chapter 16\Shooter\Shooter\Shooter\bin\Windows Phone\Debug\Shooter.pdb
+D:\Project\WP Mango Programming Practice\Part 3\chapter 16\Shooter\Shooter\Shooter\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+D:\Project\WP Mango Programming Practice\Part 3\chapter 16\Shooter\Shooter\Shooter\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Project\WP Mango Programming Practice\Part 3\chapter 16\Shooter\Shooter\Shooter\obj\Windows Phone\Debug\Shooter.dll
+D:\Project\WP Mango Programming Practice\Part 3\chapter 16\Shooter\Shooter\Shooter\obj\Windows Phone\Debug\Shooter.pdb
+D:\Project\WP Mango Programming Practice\Part 3\chapter 16\Shooter\Shooter\Shooter\bin\Windows Phone\Debug\AppManifest.xaml
+D:\Project\WP Mango Programming Practice\Part 3\chapter 16\Shooter\Shooter\Shooter\obj\Windows Phone\Debug\WMAppManifest.xml.g
+D:\Project\WP Mango Programming Practice\Part 3\chapter 16\Shooter\Shooter\Shooter\obj\Windows Phone\Debug\WMAppManifest.xml
+D:\Project\WP Mango Programming Practice\Part 3\chapter 16\Shooter\Shooter\Shooter\bin\Windows Phone\Debug\Shooter.xap
+D:\Project\WP Mango Programming Practice\Part 3\chapter 16\Shooter\Shooter\Shooter\obj\Windows Phone\Debug\XapCacheFile.xml
+D:\Microsoft\Develop\Windows Phone\MyBook\WPMDP\Source\Part 3\chapter 16\Shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\bgLayer1.xnb
+D:\Microsoft\Develop\Windows Phone\MyBook\WPMDP\Source\Part 3\chapter 16\Shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\bgLayer2.xnb
+D:\Microsoft\Develop\Windows Phone\MyBook\WPMDP\Source\Part 3\chapter 16\Shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\endMenu.xnb
+D:\Microsoft\Develop\Windows Phone\MyBook\WPMDP\Source\Part 3\chapter 16\Shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\explosion.xnb
+D:\Microsoft\Develop\Windows Phone\MyBook\WPMDP\Source\Part 3\chapter 16\Shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\laser.xnb
+D:\Microsoft\Develop\Windows Phone\MyBook\WPMDP\Source\Part 3\chapter 16\Shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\mainbackground.xnb
+D:\Microsoft\Develop\Windows Phone\MyBook\WPMDP\Source\Part 3\chapter 16\Shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\mainMenu.xnb
+D:\Microsoft\Develop\Windows Phone\MyBook\WPMDP\Source\Part 3\chapter 16\Shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\mine.xnb
+D:\Microsoft\Develop\Windows Phone\MyBook\WPMDP\Source\Part 3\chapter 16\Shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\mineAnimation.xnb
+D:\Microsoft\Develop\Windows Phone\MyBook\WPMDP\Source\Part 3\chapter 16\Shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\player.xnb
+D:\Microsoft\Develop\Windows Phone\MyBook\WPMDP\Source\Part 3\chapter 16\Shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\shipAnimation.xnb
+D:\Microsoft\Develop\Windows Phone\MyBook\WPMDP\Source\Part 3\chapter 16\Shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\Sound\explosion.xnb
+D:\Microsoft\Develop\Windows Phone\MyBook\WPMDP\Source\Part 3\chapter 16\Shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\Sound\laserFire.xnb
+D:\Microsoft\Develop\Windows Phone\MyBook\WPMDP\Source\Part 3\chapter 16\Shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\Sound\gameMusic.xnb
+D:\Microsoft\Develop\Windows Phone\MyBook\WPMDP\Source\Part 3\chapter 16\Shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\Sound\menuMusic.xnb
+D:\Microsoft\Develop\Windows Phone\MyBook\WPMDP\Source\Part 3\chapter 16\Shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\gameFont.xnb
+D:\Microsoft\Develop\Windows Phone\MyBook\WPMDP\Source\Part 3\chapter 16\Shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\Sound\gameMusic.wma
+D:\Microsoft\Develop\Windows Phone\MyBook\WPMDP\Source\Part 3\chapter 16\Shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\Sound\menuMusic.wma
+D:\Microsoft\Develop\Windows Phone\MyBook\WPMDP\Source\Part 3\chapter 16\Shooter\Shooter\Shooter\bin\Windows Phone\Debug\Shooter.dll
+D:\Microsoft\Develop\Windows Phone\MyBook\WPMDP\Source\Part 3\chapter 16\Shooter\Shooter\Shooter\bin\Windows Phone\Debug\Shooter.pdb
+D:\Microsoft\Develop\Windows Phone\MyBook\WPMDP\Source\Part 3\chapter 16\Shooter\Shooter\Shooter\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+D:\Microsoft\Develop\Windows Phone\MyBook\WPMDP\Source\Part 3\chapter 16\Shooter\Shooter\Shooter\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Microsoft\Develop\Windows Phone\MyBook\WPMDP\Source\Part 3\chapter 16\Shooter\Shooter\Shooter\obj\Windows Phone\Debug\Shooter.dll
+D:\Microsoft\Develop\Windows Phone\MyBook\WPMDP\Source\Part 3\chapter 16\Shooter\Shooter\Shooter\obj\Windows Phone\Debug\Shooter.pdb
+D:\Microsoft\Develop\Windows Phone\MyBook\WPMDP\Source\Part 3\chapter 16\Shooter\Shooter\Shooter\bin\Windows Phone\Debug\AppManifest.xaml
+D:\Microsoft\Develop\Windows Phone\MyBook\WPMDP\Source\Part 3\chapter 16\Shooter\Shooter\Shooter\obj\Windows Phone\Debug\WMAppManifest.xml.g
+D:\Microsoft\Develop\Windows Phone\MyBook\WPMDP\Source\Part 3\chapter 16\Shooter\Shooter\Shooter\obj\Windows Phone\Debug\WMAppManifest.xml
+D:\Microsoft\Develop\Windows Phone\MyBook\WPMDP\Source\Part 3\chapter 16\Shooter\Shooter\Shooter\bin\Windows Phone\Debug\Shooter.xap
+D:\Microsoft\Develop\Windows Phone\MyBook\WPMDP\Source\Part 3\chapter 16\Shooter\Shooter\Shooter\obj\Windows Phone\Debug\XapCacheFile.xml

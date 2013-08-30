@@ -1,0 +1,32 @@
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\LocationServiceSample\LocationServiceSample\Bin\Debug\ApplicationIcon.png
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\LocationServiceSample\LocationServiceSample\Bin\Debug\Background.png
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\LocationServiceSample\LocationServiceSample\Bin\Debug\Images\high.png
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\LocationServiceSample\LocationServiceSample\Bin\Debug\Images\low.png
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\LocationServiceSample\LocationServiceSample\Bin\Debug\Images\stop.png
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\LocationServiceSample\LocationServiceSample\Bin\Debug\LocationServiceSample.dll
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\LocationServiceSample\LocationServiceSample\Bin\Debug\LocationServiceSample.pdb
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\LocationServiceSample\LocationServiceSample\Bin\Debug\AppManifest.xaml
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\LocationServiceSample\LocationServiceSample\Bin\Debug\LocationServiceSample.xap
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\LocationServiceSample\LocationServiceSample\obj\Debug\ResolveAssemblyReference.cache
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\LocationServiceSample\LocationServiceSample\obj\Debug\App.g.i.cs
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\LocationServiceSample\LocationServiceSample\obj\Debug\MainPage.g.i.cs
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\LocationServiceSample\LocationServiceSample\obj\Debug\LocationServiceSample.g.resources
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\LocationServiceSample\LocationServiceSample\obj\Debug\LocationServiceSample.dll
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\LocationServiceSample\LocationServiceSample\obj\Debug\LocationServiceSample.pdb
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\LocationServiceSample\LocationServiceSample\obj\Debug\XapCacheFile.xml
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\LocationServiceSample\LocationServiceSample\Bin\Debug\ApplicationIcon.png
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\LocationServiceSample\LocationServiceSample\Bin\Debug\Background.png
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\LocationServiceSample\LocationServiceSample\Bin\Debug\Images\high.png
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\LocationServiceSample\LocationServiceSample\Bin\Debug\Images\low.png
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\LocationServiceSample\LocationServiceSample\Bin\Debug\Images\stop.png
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\LocationServiceSample\LocationServiceSample\Bin\Debug\LocationServiceSample.dll
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\LocationServiceSample\LocationServiceSample\Bin\Debug\LocationServiceSample.pdb
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\LocationServiceSample\LocationServiceSample\Bin\Debug\AppManifest.xaml
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\LocationServiceSample\LocationServiceSample\Bin\Debug\LocationServiceSample.xap
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\LocationServiceSample\LocationServiceSample\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\LocationServiceSample\LocationServiceSample\obj\Debug\App.g.i.cs
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\LocationServiceSample\LocationServiceSample\obj\Debug\MainPage.g.i.cs
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\LocationServiceSample\LocationServiceSample\obj\Debug\LocationServiceSample.g.resources
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\LocationServiceSample\LocationServiceSample\obj\Debug\LocationServiceSample.dll
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\LocationServiceSample\LocationServiceSample\obj\Debug\LocationServiceSample.pdb
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\LocationServiceSample\LocationServiceSample\obj\Debug\XapCacheFile.xml

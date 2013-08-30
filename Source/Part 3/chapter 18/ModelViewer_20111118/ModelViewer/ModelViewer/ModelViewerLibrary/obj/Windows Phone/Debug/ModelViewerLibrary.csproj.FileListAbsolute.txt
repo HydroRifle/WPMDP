@@ -1,0 +1,27 @@
+D:\Microsoft\Develop\Windows Phone\Mango\Samples\MangoTrainingCourse\Labs\XNA3DModelViewer\Source\End\ModelViewer\ModelViewer\ModelViewerLibrary\bin\Windows Phone\Debug\Content\polo.xnb
+D:\Microsoft\Develop\Windows Phone\Mango\Samples\MangoTrainingCourse\Labs\XNA3DModelViewer\Source\End\ModelViewer\ModelViewer\ModelViewerLibrary\bin\Windows Phone\Debug\Content\background.xnb
+D:\Microsoft\Develop\Windows Phone\Mango\Samples\MangoTrainingCourse\Labs\XNA3DModelViewer\Source\End\ModelViewer\ModelViewer\ModelViewerLibrary\bin\Windows Phone\Debug\Content\MPolo2TEX_0.xnb
+D:\Microsoft\Develop\Windows Phone\Mango\Samples\MangoTrainingCourse\Labs\XNA3DModelViewer\Source\End\ModelViewer\ModelViewer\ModelViewerLibrary\bin\Windows Phone\Debug\ModelViewerLibraryTest.dll
+D:\Microsoft\Develop\Windows Phone\Mango\Samples\MangoTrainingCourse\Labs\XNA3DModelViewer\Source\End\ModelViewer\ModelViewer\ModelViewerLibrary\bin\Windows Phone\Debug\ModelViewerLibraryTest.pdb
+D:\Microsoft\Develop\Windows Phone\Mango\Samples\MangoTrainingCourse\Labs\XNA3DModelViewer\Source\End\ModelViewer\ModelViewer\ModelViewerLibrary\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+D:\Microsoft\Develop\Windows Phone\Mango\Samples\MangoTrainingCourse\Labs\XNA3DModelViewer\Source\End\ModelViewer\ModelViewer\ModelViewerLibrary\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Microsoft\Develop\Windows Phone\Mango\Samples\MangoTrainingCourse\Labs\XNA3DModelViewer\Source\End\ModelViewer\ModelViewer\ModelViewerLibrary\obj\Windows Phone\Debug\ModelViewerLibraryTest.dll
+D:\Microsoft\Develop\Windows Phone\Mango\Samples\MangoTrainingCourse\Labs\XNA3DModelViewer\Source\End\ModelViewer\ModelViewer\ModelViewerLibrary\obj\Windows Phone\Debug\ModelViewerLibraryTest.pdb
+E:\MyDev\DevTech\Windows Phone\MyBook\WPMDP\Source\Part 3\chapter 18\ModelViewer_20111118\ModelViewer\ModelViewer\ModelViewerLibrary\bin\Windows Phone\Debug\Content\polo.xnb
+E:\MyDev\DevTech\Windows Phone\MyBook\WPMDP\Source\Part 3\chapter 18\ModelViewer_20111118\ModelViewer\ModelViewer\ModelViewerLibrary\bin\Windows Phone\Debug\Content\background.xnb
+E:\MyDev\DevTech\Windows Phone\MyBook\WPMDP\Source\Part 3\chapter 18\ModelViewer_20111118\ModelViewer\ModelViewer\ModelViewerLibrary\bin\Windows Phone\Debug\Content\MPolo2TEX_0.xnb
+E:\MyDev\DevTech\Windows Phone\MyBook\WPMDP\Source\Part 3\chapter 18\ModelViewer_20111118\ModelViewer\ModelViewer\ModelViewerLibrary\bin\Windows Phone\Debug\ModelViewerLibraryTest.dll
+E:\MyDev\DevTech\Windows Phone\MyBook\WPMDP\Source\Part 3\chapter 18\ModelViewer_20111118\ModelViewer\ModelViewer\ModelViewerLibrary\bin\Windows Phone\Debug\ModelViewerLibraryTest.pdb
+E:\MyDev\DevTech\Windows Phone\MyBook\WPMDP\Source\Part 3\chapter 18\ModelViewer_20111118\ModelViewer\ModelViewer\ModelViewerLibrary\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+E:\MyDev\DevTech\Windows Phone\MyBook\WPMDP\Source\Part 3\chapter 18\ModelViewer_20111118\ModelViewer\ModelViewer\ModelViewerLibrary\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\MyDev\DevTech\Windows Phone\MyBook\WPMDP\Source\Part 3\chapter 18\ModelViewer_20111118\ModelViewer\ModelViewer\ModelViewerLibrary\obj\Windows Phone\Debug\ModelViewerLibraryTest.dll
+E:\MyDev\DevTech\Windows Phone\MyBook\WPMDP\Source\Part 3\chapter 18\ModelViewer_20111118\ModelViewer\ModelViewer\ModelViewerLibrary\obj\Windows Phone\Debug\ModelViewerLibraryTest.pdb
+D:\Microsoft\Develop\Windows Phone\MyBook\WPMDP\Source\Part 3\chapter 18\ModelViewer_20111118\ModelViewer\ModelViewer\ModelViewerLibrary\bin\Windows Phone\Debug\Content\polo.xnb
+D:\Microsoft\Develop\Windows Phone\MyBook\WPMDP\Source\Part 3\chapter 18\ModelViewer_20111118\ModelViewer\ModelViewer\ModelViewerLibrary\bin\Windows Phone\Debug\Content\background.xnb
+D:\Microsoft\Develop\Windows Phone\MyBook\WPMDP\Source\Part 3\chapter 18\ModelViewer_20111118\ModelViewer\ModelViewer\ModelViewerLibrary\bin\Windows Phone\Debug\Content\MPolo2TEX_0.xnb
+D:\Microsoft\Develop\Windows Phone\MyBook\WPMDP\Source\Part 3\chapter 18\ModelViewer_20111118\ModelViewer\ModelViewer\ModelViewerLibrary\bin\Windows Phone\Debug\ModelViewerLibraryTest.dll
+D:\Microsoft\Develop\Windows Phone\MyBook\WPMDP\Source\Part 3\chapter 18\ModelViewer_20111118\ModelViewer\ModelViewer\ModelViewerLibrary\bin\Windows Phone\Debug\ModelViewerLibraryTest.pdb
+D:\Microsoft\Develop\Windows Phone\MyBook\WPMDP\Source\Part 3\chapter 18\ModelViewer_20111118\ModelViewer\ModelViewer\ModelViewerLibrary\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+D:\Microsoft\Develop\Windows Phone\MyBook\WPMDP\Source\Part 3\chapter 18\ModelViewer_20111118\ModelViewer\ModelViewer\ModelViewerLibrary\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Microsoft\Develop\Windows Phone\MyBook\WPMDP\Source\Part 3\chapter 18\ModelViewer_20111118\ModelViewer\ModelViewer\ModelViewerLibrary\obj\Windows Phone\Debug\ModelViewerLibraryTest.dll
+D:\Microsoft\Develop\Windows Phone\MyBook\WPMDP\Source\Part 3\chapter 18\ModelViewer_20111118\ModelViewer\ModelViewer\ModelViewerLibrary\obj\Windows Phone\Debug\ModelViewerLibraryTest.pdb

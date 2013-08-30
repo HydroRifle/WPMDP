@@ -1,0 +1,36 @@
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\CloudClientOnWindowsPhone\CloudClientOnWindowsPhone\Bin\Debug\ApplicationIcon.png
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\CloudClientOnWindowsPhone\CloudClientOnWindowsPhone\Bin\Debug\Background.png
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\CloudClientOnWindowsPhone\CloudClientOnWindowsPhone\Bin\Debug\CloudClientOnWindowsPhone.dll
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\CloudClientOnWindowsPhone\CloudClientOnWindowsPhone\Bin\Debug\CloudClientOnWindowsPhone.pdb
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\CloudClientOnWindowsPhone\CloudClientOnWindowsPhone\Bin\Debug\Microsoft.Phone.Controls.dll
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\CloudClientOnWindowsPhone\CloudClientOnWindowsPhone\Bin\Debug\Microsoft.Phone.Controls.xml
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\CloudClientOnWindowsPhone\CloudClientOnWindowsPhone\obj\Debug\ResolveAssemblyReference.cache
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\CloudClientOnWindowsPhone\CloudClientOnWindowsPhone\obj\Debug\App.g.i.cs
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\CloudClientOnWindowsPhone\CloudClientOnWindowsPhone\obj\Debug\MainPage.g.i.cs
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\CloudClientOnWindowsPhone\CloudClientOnWindowsPhone\obj\Debug\CloudClientOnWindowsPhone.g.resources
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\CloudClientOnWindowsPhone\CloudClientOnWindowsPhone\obj\Debug\CloudClientOnWindowsPhone.dll
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\CloudClientOnWindowsPhone\CloudClientOnWindowsPhone\obj\Debug\CloudClientOnWindowsPhone.pdb
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\CloudClientOnWindowsPhone\CloudClientOnWindowsPhone\Bin\Debug\AppManifest.xaml
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\CloudClientOnWindowsPhone\CloudClientOnWindowsPhone\Bin\Debug\CloudClientOnWindowsPhone.xap
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\CloudClientOnWindowsPhone\CloudClientOnWindowsPhone\obj\Debug\XapCacheFile.xml
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\CloudClientOnWindowsPhone\CloudClientOnWindowsPhone\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\CloudClientOnWindowsPhone\CloudClientOnWindowsPhone\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\CloudClientOnWindowsPhone\CloudClientOnWindowsPhone\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\CloudClientOnWindowsPhone\CloudClientOnWindowsPhone\Bin\Debug\ApplicationIcon.png
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\CloudClientOnWindowsPhone\CloudClientOnWindowsPhone\Bin\Debug\Background.png
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\CloudClientOnWindowsPhone\CloudClientOnWindowsPhone\Bin\Debug\CloudClientOnWindowsPhone.dll
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\CloudClientOnWindowsPhone\CloudClientOnWindowsPhone\Bin\Debug\CloudClientOnWindowsPhone.pdb
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\CloudClientOnWindowsPhone\CloudClientOnWindowsPhone\Bin\Debug\AppManifest.xaml
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\CloudClientOnWindowsPhone\CloudClientOnWindowsPhone\Bin\Debug\CloudClientOnWindowsPhone.xap
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\CloudClientOnWindowsPhone\CloudClientOnWindowsPhone\Bin\Debug\Microsoft.Phone.Controls.dll
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\CloudClientOnWindowsPhone\CloudClientOnWindowsPhone\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\CloudClientOnWindowsPhone\CloudClientOnWindowsPhone\Bin\Debug\Microsoft.Phone.Controls.xml
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\CloudClientOnWindowsPhone\CloudClientOnWindowsPhone\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\CloudClientOnWindowsPhone\CloudClientOnWindowsPhone\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\CloudClientOnWindowsPhone\CloudClientOnWindowsPhone\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\CloudClientOnWindowsPhone\CloudClientOnWindowsPhone\obj\Debug\App.g.i.cs
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\CloudClientOnWindowsPhone\CloudClientOnWindowsPhone\obj\Debug\MainPage.g.i.cs
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\CloudClientOnWindowsPhone\CloudClientOnWindowsPhone\obj\Debug\CloudClientOnWindowsPhone.g.resources
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\CloudClientOnWindowsPhone\CloudClientOnWindowsPhone\obj\Debug\CloudClientOnWindowsPhone.dll
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\CloudClientOnWindowsPhone\CloudClientOnWindowsPhone\obj\Debug\CloudClientOnWindowsPhone.pdb
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\CloudClientOnWindowsPhone\CloudClientOnWindowsPhone\obj\Debug\XapCacheFile.xml

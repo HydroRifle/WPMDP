@@ -1,0 +1,3 @@
+C:\test\AccelerometerEnabledGame\AccelerometerEnabledGame\AccelerometerEnabledGameContent\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+D:\MyProject\WP7 Programming Practice\Part 1\chapter 4\AccelerometerEnabledGame\AccelerometerEnabledGame\AccelerometerEnabledGameContent\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+D:\Project\WP Mango Programming Practice\Part 1\chapter 4\AccelerometerEnabledGame\AccelerometerEnabledGame\AccelerometerEnabledGameContent\obj\Windows Phone\Debug\ResolveAssemblyReference.cache

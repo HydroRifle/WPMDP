@@ -1,0 +1,25 @@
+<local:MainViewModel 
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"       
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="clr-namespace:LaunchersChoosers" 
+    SampleProperty="Sample Text Property Value">
+    
+    <local:MainViewModel.Items>
+        <local:ItemViewModel LineOne="EmailCompose" LineTwo="Email Compose Task" LineThree="/Launchers/EmailCompose.xaml"/>
+        <local:ItemViewModel LineOne="PhoneCall" LineTwo="Phone Call Task" LineThree="/Launchers/PhoneCall.xaml"/>
+        <local:ItemViewModel LineOne="Search" LineTwo="Search Task" LineThree="/Launchers/Search.xaml"/>
+        <local:ItemViewModel LineOne="Smscompose" LineTwo="Smscompose Task" LineThree="/Launchers/Smscompose.xaml"/>
+        <local:ItemViewModel LineOne="WebSearch" LineTwo="Web Search Task" LineThree="/Launchers/WebBrowser.xaml"/>
+        <local:ItemViewModel LineOne="MediaPlayer" LineTwo="Media Player Launcher" LineThree="/Launchers/MediaLauncher.xaml"/>
+        <local:ItemViewModel LineOne="Marketplace" LineTwo="MarketPlaceDetail Task and MarketplaceHub Task" LineThree="/Launchers/MarketPlace.xaml"/>
+    </local:MainViewModel.Items>
+    <local:MainViewModel.ChoosersItems>
+        <local:ItemViewModel ChoosersLineOne="Camer" ChoosersLineTwo="Camer chooser task" ChoosersLineThree="/Choosers/CamerChooser.xaml"/>
+        <local:ItemViewModel ChoosersLineOne="Email Address" ChoosersLineTwo="email address chooser task" ChoosersLineThree="/Choosers/EmailAddressChooser.xaml"/>
+        <local:ItemViewModel ChoosersLineOne="Phone Number" ChoosersLineTwo="phone number chooser task" ChoosersLineThree="/Choosers/PhoneNumberChooser.xaml"/>
+        <local:ItemViewModel ChoosersLineOne="Photo" ChoosersLineTwo="photo chooser task" ChoosersLineThree="/Choosers/PhotoChooser.xaml"/>
+        <local:ItemViewModel ChoosersLineOne="Save Email Address" ChoosersLineTwo="Save email address task" ChoosersLineThree="/Choosers/SaveEmailAddress.xaml"/>
+        <local:ItemViewModel ChoosersLineOne="Save Phone number" ChoosersLineTwo="Save Phone number task" ChoosersLineThree="/Choosers/SavePhoneNumber.xaml"/>
+    </local:MainViewModel.ChoosersItems>
+    
+</local:MainViewModel>

@@ -1,0 +1,15 @@
+D:\Project\MyMangoProject\MarsImageViewer\ShakeGestures\Bin\Release\ShakeGestures.dll
+D:\Project\MyMangoProject\MarsImageViewer\ShakeGestures\Bin\Release\ShakeGestures.pdb
+D:\Project\MyMangoProject\MarsImageViewer\ShakeGestures\obj\Release\ResolveAssemblyReference.cache
+D:\Project\MyMangoProject\MarsImageViewer\ShakeGestures\obj\Release\ShakeGestures.dll
+D:\Project\MyMangoProject\MarsImageViewer\ShakeGestures\obj\Release\ShakeGestures.pdb
+D:\MyProject\MyMangoProject\MarsImageViewer\ShakeGestures\Bin\Release\ShakeGestures.dll
+D:\MyProject\MyMangoProject\MarsImageViewer\ShakeGestures\Bin\Release\ShakeGestures.pdb
+D:\MyProject\MyMangoProject\MarsImageViewer\ShakeGestures\obj\Release\ResolveAssemblyReference.cache
+D:\MyProject\MyMangoProject\MarsImageViewer\ShakeGestures\obj\Release\ShakeGestures.dll
+D:\MyProject\MyMangoProject\MarsImageViewer\ShakeGestures\obj\Release\ShakeGestures.pdb
+D:\Microsoft\Develop\Windows Phone\WPMPP\Source\Part 1\chapter 2\MarsImageViewer_201111171637\MarsImageViewer\ShakeGestures\Bin\Release\ShakeGestures.dll
+D:\Microsoft\Develop\Windows Phone\WPMPP\Source\Part 1\chapter 2\MarsImageViewer_201111171637\MarsImageViewer\ShakeGestures\Bin\Release\ShakeGestures.pdb
+D:\Microsoft\Develop\Windows Phone\WPMPP\Source\Part 1\chapter 2\MarsImageViewer_201111171637\MarsImageViewer\ShakeGestures\obj\Release\ResolveAssemblyReference.cache
+D:\Microsoft\Develop\Windows Phone\WPMPP\Source\Part 1\chapter 2\MarsImageViewer_201111171637\MarsImageViewer\ShakeGestures\obj\Release\ShakeGestures.dll
+D:\Microsoft\Develop\Windows Phone\WPMPP\Source\Part 1\chapter 2\MarsImageViewer_201111171637\MarsImageViewer\ShakeGestures\obj\Release\ShakeGestures.pdb
